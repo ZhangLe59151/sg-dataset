@@ -1,11 +1,23 @@
 Date,Day,Holiday
+2014-01-01,Wednesday,New Year's Day
+2014-01-31,Friday,Chinese New Year
+2014-02-01,Saturday,Chinese New Year
+2014-04-18,Friday,Good Friday
+2014-05-01,Thursday,Labour Day
+2014-05-13,Tuesday,Vesak Day
+2014-07-28,Monday,Hari Raya Puasa
+2014-08-09,Saturday,National Day
+2014-10-05,Sunday,Hari Raya Haji
+2014-10-05,Monday,Hari Raya Haji
+2014-10-23,Thursday,Deepavali
+2014-12-25,Thursday,Christmas Day
 2015-01-01,Thursday,New Year's Day
 2015-02-19,Thursday,Chinese New Year
 2015-02-20,Friday,Chinese New Year
 2015-04-03,Friday,Good Friday
 2015-05-01,Friday,Labour Day
 2015-06-01,Monday,Vesak Day
-2015-07-17,Friday,Hari Raya
+2015-07-17,Friday,Hari Raya Puasa
 2015-08-09,Sunday,National Day
 2015-08-10,Monday,National Day
 2015-09-24,Thursday,Hari Raya Haji
