@@ -269,3 +269,43 @@
 267,6571554679,Enigma,Ranged,black_king_bar,blink,refresher,arcane_boots,spirit_vessel,sphere,1
 268,6571554679,Abaddon,Melee,tranquil_boots,vladmir,ward_sentry,magic_wand,blink,gem,1
 269,6571554679,Chaos Knight,Melee,skadi,bloodthorn,armlet,aegis,power_treads,swift_blink,1
+270,6571201844,Chaos Knight,Melee,echo_sabre,power_treads,armlet,overwhelming_blink,black_king_bar,assault,1
+271,6571201844,Queen of Pain,Ranged,black_king_bar,refresher,ghost,kaya_and_sange,power_treads,sheepstick,1
+272,6571201844,Tidehunter,Melee,shivas_guard,blink,phase_boots,pipe,ultimate_scepter,black_king_bar,1
+273,6571201844,Death Prophet,Ranged,blink,magic_wand,glimmer_cape,boots,fluffy_hat,gem,1
+274,6571201844,Shadow Shaman,Ranged,blink,magic_wand,black_king_bar,,tranquil_boots,clarity,1
+275,6571201844,Mars,Melee,phase_boots,blink,soul_ring,black_king_bar,,void_stone,0
+276,6571201844,Rubick,Ranged,arcane_boots,force_staff,glimmer_cape,magic_stick,ward_dispenser,,0
+277,6571201844,Faceless Void,Melee,black_king_bar,manta,power_treads,mjollnir,magic_stick,sphere,0
+278,6571201844,Jakiro,Ranged,force_staff,ethereal_blade,tome_of_knowledge,smoke_of_deceit,tranquil_boots,wind_lace,0
+279,6571201844,Venomancer,Ranged,dust,black_king_bar,spirit_vessel,boots,ultimate_scepter,magic_wand,0
+280,6571305244,Chaos Knight,Melee,sange,power_treads,armlet,magic_wand,black_king_bar,orb_of_venom,0
+281,6571305244,Lina,Ranged,black_king_bar,invis_sword,platemail,soul_ring,null_talisman,travel_boots,0
+282,6571305244,Mars,Melee,soul_ring,blink,phase_boots,black_king_bar,magic_wand,bracer,0
+283,6571305244,Shadow Demon,Ranged,wind_lace,,enchanted_mango,boots,ward_dispenser,aether_lens,0
+284,6571305244,Dark Willow,Ranged,blink,magic_wand,dust,tranquil_boots,,,0
+285,6571305244,Batrider,Ranged,boots_of_bearing,blink,black_king_bar,magic_wand,null_talisman,aether_lens,1
+286,6571305244,Snapfire,Ranged,blink,force_staff,ward_sentry,magic_wand,wind_lace,boots,1
+287,6571305244,Bloodseeker,Melee,sphere,phase_boots,black_king_bar,basher,vitality_booster,mjollnir,1
+288,6571305244,Tusk,Melee,force_staff,ward_sentry,magic_wand,tranquil_boots,blink,infused_raindrop,1
+289,6571305244,Templar Assassin,Ranged,magic_wand,power_treads,blink,desolator,greater_crit,black_king_bar,1
+290,6571200692,Shadow Shaman,Ranged,blink,ogre_axe,magic_wand,gem,tranquil_boots,,0
+291,6571200692,Mars,Melee,phase_boots,soul_ring,blink,basher,refresher,black_king_bar,0
+292,6571200692,Skywrath Mage,Ranged,ward_dispenser,magic_wand,ultimate_scepter,null_talisman,blink,boots,0
+293,6571200692,Puck,Ranged,sphere,kaya_and_sange,black_king_bar,travel_boots,blink,witch_blade,0
+294,6571200692,Visage,Ranged,boots_of_bearing,magic_wand,ultimate_scepter,null_talisman,,assault,0
+295,6571200692,Razor,Ranged,power_treads,black_king_bar,refresher,sange_and_yasha,hand_of_midas,wraith_band,1
+296,6571200692,Winter Wyvern,Ranged,blink,magic_wand,aether_lens,smoke_of_deceit,boots,,1
+297,6571200692,Ember Spirit,Melee,travel_boots,maelstrom,sheepstick,ultimate_scepter,black_king_bar,magic_wand,1
+298,6571200692,Wraith King,Melee,blink,desolator,black_king_bar,phase_boots,armlet,assault,1
+299,6571200692,Nyx Assassin,Melee,boots,,magic_wand,force_staff,quelling_blade,,1
+300,6571306390,Underlord,Melee,swift_blink,rod_of_atos,gem,power_treads,black_king_bar,basher,1
+301,6571306390,Windranger,Ranged,blink,black_king_bar,null_talisman,magic_wand,maelstrom,tranquil_boots,1
+302,6571306390,Puck,Ranged,hurricane_pike,blink,revenants_brooch,gungir,kaya_and_sange,sphere,1
+303,6571306390,Razor,Ranged,power_treads,skadi,refresher,sange_and_yasha,black_king_bar,assault,1
+304,6571306390,Io,Ranged,ward_dispenser,mekansm,cloak,cyclone,wraith_pact,magic_wand,1
+305,6571306390,Shadow Shaman,Ranged,blink,sobi_mask,ward_dispenser,black_king_bar,tranquil_boots,magic_wand,0
+306,6571306390,Mars,Melee,phase_boots,lotus_orb,blink,magic_wand,soul_ring,black_king_bar,0
+307,6571306390,Ancient Apparition,Ranged,magic_wand,,boots,fluffy_hat,glimmer_cape,blight_stone,0
+308,6571306390,Pangolier,Melee,orb_of_corrosion,aeon_disk,diffusal_blade,power_treads,blink,basher,0
+309,6571306390,Nature's Prophet,Ranged,power_treads,black_king_bar,sphere,greater_crit,silver_edge,maelstrom,0
