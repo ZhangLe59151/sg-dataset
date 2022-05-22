@@ -1,441 +1,541 @@
 ,mid,hero,hero_type,item1,item2,item3,item4,item5,item6,result
-0,6576116877,Phoenix,Ranged,aeon_disk,spirit_vessel,refresher,tranquil_boots,,platemail,1
-1,6576116877,Kunkka,Melee,silver_edge,phase_boots,assault,sheepstick,black_king_bar,magic_wand,1
-2,6576116877,Mars,Melee,black_king_bar,blink,wraith_pact,phase_boots,soul_ring,gem,1
-3,6576116877,Pugna,Ranged,magic_wand,tranquil_boots,glimmer_cape,force_staff,smoke_of_deceit,ward_dispenser,1
-4,6576116877,Nature's Prophet,Ranged,skadi,gungir,silver_edge,satanic,power_treads,black_king_bar,1
-5,6576116877,Enchantress,Ranged,force_staff,boots,wraith_pact,glimmer_cape,ward_sentry,magic_wand,0
-6,6576116877,Monkey King,Melee,bfury,power_treads,black_king_bar,greater_crit,basher,ultimate_scepter,0
-7,6576116877,Timbersaw,Melee,shivas_guard,wind_waker,kaya_and_sange,black_king_bar,hood_of_defiance,travel_boots,0
-8,6576116877,Tiny,Melee,phase_boots,blink,silver_edge,black_king_bar,echo_sabre,dust,0
-9,6576116877,Grimstroke,Ranged,ancient_janggo,tranquil_boots,force_staff,aether_lens,magic_wand,ward_sentry,0
-10,6576223979,Enchantress,Ranged,force_staff,power_treads,magic_wand,glimmer_cape,ogre_axe,ward_dispenser,0
-11,6576223979,Monkey King,Melee,bfury,power_treads,black_king_bar,basher,greater_crit,ultimate_scepter,0
-12,6576223979,Beastmaster,Melee,black_king_bar,helm_of_the_overlord,ultimate_scepter,boots_of_bearing,,,0
-13,6576223979,Puck,Ranged,travel_boots,blink,witch_blade,aeon_disk,octarine_core,kaya_and_sange,0
-14,6576223979,Shadow Shaman,Ranged,blink,tranquil_boots,branches,black_king_bar,magic_stick,ward_observer,0
-15,6576223979,Phoenix,Ranged,magic_wand,spirit_vessel,refresher,tranquil_boots,dust,vitality_booster,1
-16,6576223979,Pangolier,Melee,blink,diffusal_blade,abyssal_blade,sphere,octarine_core,aegis,1
-17,6576223979,Mars,Melee,wraith_pact,blink,sheepstick,phase_boots,cheese,soul_ring,1
-18,6576223979,Abaddon,Melee,magic_wand,ward_sentry,glimmer_cape,,gem,boots_of_bearing,1
-19,6576223979,Nature's Prophet,Ranged,butterfly,bloodthorn,silver_edge,assault,satanic,black_king_bar,1
-20,6575811382,Rubick,Ranged,ultimate_scepter,ward_dispenser,force_staff,aether_lens,,,0
-21,6575811382,Brewmaster,Melee,boots,aeon_disk,urn_of_shadows,ultimate_scepter,vladmir,refresher,0
-22,6575811382,Kunkka,Melee,black_king_bar,heavens_halberd,refresher,radiance,ultimate_scepter,assault,0
-23,6575811382,Lich,Ranged,force_staff,boots_of_bearing,ward_dispenser,glimmer_cape,,magic_wand,0
-24,6575811382,Chaos Knight,Melee,blink,bloodthorn,black_king_bar,nullifier,power_treads,abyssal_blade,0
-25,6575811382,Phoenix,Ranged,aeon_disk,travel_boots,shivas_guard,black_king_bar,refresher,,1
-26,6575811382,Wraith King,Melee,nullifier,overwhelming_blink,black_king_bar,refresher,bloodthorn,desolator,1
-27,6575811382,Mars,Melee,phase_boots,blink,nullifier,refresher,assault,black_king_bar,1
-28,6575811382,Beastmaster,Melee,blink,helm_of_the_overlord,black_king_bar,travel_boots,refresher,gem,1
-29,6575811382,Snapfire,Ranged,blink,force_staff,ultimate_scepter,tranquil_boots,dust,refresher,1
-30,6575974930,Snapfire,Ranged,boots_of_bearing,force_staff,gem,wind_lace,,ward_observer,1
-31,6575974930,Luna,Ranged,black_king_bar,aegis,manta,power_treads,satanic,butterfly,1
-32,6575974930,Pangolier,Melee,blink,diffusal_blade,power_treads,dust,aeon_disk,black_king_bar,1
-33,6575974930,Lycan,Melee,helm_of_the_overlord,cyclone,black_king_bar,assault,buckler,,1
-34,6575974930,Monkey King,Melee,phase_boots,black_king_bar,magic_wand,desolator,ultimate_orb,dust,1
-35,6575974930,Mirana,Ranged,mekansm,crimson_guard,force_staff,wraith_pact,magic_wand,arcane_boots,0
-36,6575974930,Sand King,Melee,tranquil_boots,shivas_guard,blink,cyclone,kaya,soul_ring,0
-37,6575974930,Tiny,Melee,phase_boots,black_king_bar,blink,moon_shard,silver_edge,echo_sabre,0
-38,6575974930,Bane,Ranged,ghost,glimmer_cape,force_staff,magic_wand,,tranquil_boots,0
-39,6575974930,Magnus,Melee,arcane_blink,greater_crit,black_king_bar,satanic,assault,echo_sabre,0
-40,6575685774,Visage,Ranged,gem,magic_wand,wraith_pact,phase_boots,ancient_janggo,ultimate_scepter,1
-41,6575685774,Doom,Melee,tranquil_boots,blink,magic_wand,black_king_bar,force_staff,ultimate_scepter,1
-42,6575685774,Death Prophet,Ranged,cheese,black_king_bar,kaya_and_sange,travel_boots,null_talisman,shivas_guard,1
-43,6575685774,Luna,Ranged,satanic,manta,skadi,silver_edge,black_king_bar,aegis,1
-44,6575685774,Bane,Ranged,boots,magic_stick,shadow_amulet,blink,ward_dispenser,fluffy_hat,1
-45,6575685774,Mars,Melee,,blink,refresher,phase_boots,soul_ring,black_king_bar,0
-46,6575685774,Storm Spirit,Ranged,null_talisman,sphere,null_talisman,black_king_bar,null_talisman,null_talisman,0
-47,6575685774,Pugna,Ranged,vladmir,tranquil_boots,ward_dispenser,enchanted_mango,,,0
-48,6575685774,Winter Wyvern,Ranged,boots,aether_lens,blink,solar_crest,,magic_stick,0
-49,6575685774,Phantom Assassin,Melee,bfury,ultimate_orb,magic_wand,power_treads,sphere,black_king_bar,0
-50,6575589562,Mars,Melee,black_king_bar,blink,soul_ring,phase_boots,gem,bracer,0
-51,6575589562,Snapfire,Ranged,boots,blink,quelling_blade,dust,magic_wand,wraith_pact,0
-52,6575589562,Sniper,Ranged,mask_of_madness,hurricane_pike,black_king_bar,power_treads,greater_crit,sphere,0
-53,6575589562,Chaos Knight,Melee,armlet,blink,invis_sword,black_king_bar,power_treads,echo_sabre,0
-54,6575589562,Io,Ranged,,holy_locket,enchanted_mango,ogre_axe,ward_dispenser,ring_of_basilius,0
-55,6575589562,Doom,Melee,shivas_guard,black_king_bar,heavens_halberd,phase_boots,blink,refresher,1
-56,6575589562,Tiny,Melee,phase_boots,blink,moon_shard,silver_edge,black_king_bar,echo_sabre,1
-57,6575589562,Bane,Ranged,ghost,tranquil_boots,blink,aether_lens,dust,ward_dispenser,1
-58,6575589562,Phoenix,Ranged,urn_of_shadows,mekansm,wraith_pact,tranquil_boots,pipe,gem,1
-59,6575589562,Monkey King,Melee,aegis,arcane_blink,gungir,skadi,echo_sabre,black_king_bar,1
-60,6575506610,Doom,Melee,shivas_guard,arcane_blink,black_king_bar,phase_boots,hand_of_midas,heavens_halberd,1
-61,6575506610,Winter Wyvern,Ranged,boots,blink,gem,aether_lens,glimmer_cape,wraith_pact,1
-62,6575506610,Kunkka,Melee,sheepstick,sphere,black_king_bar,phase_boots,silver_edge,assault,1
-63,6575506610,Chaos Knight,Melee,armlet,aegis,heart,bloodthorn,arcane_blink,power_treads,1
-64,6575506610,Death Prophet,Ranged,travel_boots,cheese,black_king_bar,aeon_disk,ward_sentry,gem,1
-65,6575506610,Pangolier,Melee,basher,maelstrom,sphere,arcane_boots,blink,diffusal_blade,0
-66,6575506610,Void Spirit,Melee,phase_boots,kaya,ghost,black_king_bar,sphere,ultimate_scepter,0
-67,6575506610,Grimstroke,Ranged,aether_lens,boots,ward_dispenser,,,,0
-68,6575506610,Io,Ranged,bracer,wraith_pact,magic_wand,bracer,bracer,,0
-69,6575506610,Bloodseeker,Melee,magic_wand,basher,sphere,phase_boots,mjollnir,black_king_bar,0
-70,6574848748,Keeper of the Light,Ranged,magic_wand,tranquil_boots,wraith_pact,ward_dispenser,,glimmer_cape,0
-71,6574848748,Rubick,Ranged,spirit_vessel,,magic_wand,smoke_of_deceit,arcane_boots,,0
-72,6574848748,Storm Spirit,Ranged,kaya_and_sange,null_talisman,null_talisman,ultimate_scepter,null_talisman,black_king_bar,0
-73,6574848748,Mars,Melee,blink,black_king_bar,magic_wand,soul_ring,desolator,phase_boots,0
-74,6574848748,Chaos Knight,Melee,black_king_bar,magic_wand,armlet,bloodthorn,power_treads,bracer,0
-75,6574848748,Timbersaw,Melee,lotus_orb,black_king_bar,hood_of_defiance,kaya_and_sange,cyclone,gem,1
-76,6574848748,Windranger,Ranged,blink,wraith_pact,,magic_wand,null_talisman,tranquil_boots,1
-77,6574848748,Puck,Ranged,travel_boots,blink,kaya_and_sange,witch_blade,aeon_disk,octarine_core,1
-78,6574848748,Morphling,Ranged,power_treads,skadi,satanic,manta,black_king_bar,magic_wand,1
-79,6574848748,Earthshaker,Melee,tranquil_boots,blink,ward_sentry,glimmer_cape,ring_of_basilius,aeon_disk,1
-80,6574739883,Timbersaw,Melee,octarine_core,black_king_bar,sheepstick,kaya_and_sange,cyclone,hood_of_defiance,1
-81,6574739883,Ember Spirit,Melee,phase_boots,maelstrom,ultimate_scepter,black_king_bar,refresher,platemail,1
-82,6574739883,Windranger,Ranged,blink,black_king_bar,,pipe,lesser_crit,tranquil_boots,1
-83,6574739883,Chaos Knight,Melee,arcane_blink,skadi,bloodthorn,cheese,armlet,black_king_bar,1
-84,6574739883,Pugna,Ranged,tranquil_boots,blink,gem,aether_lens,wraith_pact,aeon_disk,1
-85,6574739883,Snapfire,Ranged,magic_wand,veil_of_discord,force_staff,,tranquil_boots,wraith_pact,0
-86,6574739883,Phoenix,Ranged,urn_of_shadows,black_king_bar,tranquil_boots,holy_locket,ward_sentry,ward_observer,0
-87,6574739883,Mars,Melee,overwhelming_blink,black_king_bar,refresher,soul_ring,bracer,phase_boots,0
-88,6574739883,Void Spirit,Melee,phase_boots,ultimate_scepter,black_king_bar,blink,kaya_and_sange,cyclone,0
-89,6574739883,Monkey King,Melee,black_king_bar,bfury,skadi,satanic,invis_sword,ultimate_scepter,0
-90,6574603408,Rubick,Ranged,blink,tranquil_boots,ultimate_scepter,aether_lens,black_king_bar,,0
-91,6574603408,Pangolier,Melee,blink,sphere,arcane_boots,,orb_of_corrosion,bracer,0
-92,6574603408,Snapfire,Ranged,travel_boots,black_king_bar,sphere,blink,,silver_edge,0
-93,6574603408,Winter Wyvern,Ranged,power_treads,glimmer_cape,ultimate_scepter,blink,force_staff,null_talisman,0
-94,6574603408,Lone Druid,Ranged,wraith_band,branches,branches,boots,,,0
-95,6574603408,Grimstroke,Ranged,blink,octarine_core,wraith_pact,,tranquil_boots,,1
-96,6574603408,Underlord,Melee,power_treads,shivas_guard,overwhelming_blink,rod_of_atos,sheepstick,black_king_bar,1
-97,6574603408,Doom,Melee,invis_sword,heavens_halberd,black_king_bar,magic_wand,arcane_blink,tranquil_boots,1
-98,6574603408,Void Spirit,Melee,refresher_shard,ultimate_scepter,ethereal_blade,travel_boots_2,black_king_bar,aeon_disk,1
-99,6574603408,Chaos Knight,Melee,bloodthorn,silver_edge,heart,assault,black_king_bar,arcane_blink,1
-100,6574482766,Winter Wyvern,Ranged,glimmer_cape,blink,tranquil_boots,ward_dispenser,ring_of_basilius,magic_wand,1
-101,6574482766,Mars,Melee,phase_boots,lotus_orb,blink,travel_boots,soul_ring,black_king_bar,1
-102,6574482766,Skywrath Mage,Ranged,sheepstick,magic_wand,aether_lens,boots,blink,null_talisman,1
-103,6574482766,Windranger,Ranged,greater_crit,sphere,black_king_bar,bottle,blink,gungir,1
-104,6574482766,Nature's Prophet,Ranged,blink,black_king_bar,skadi,sphere,desolator,silver_edge,1
-105,6574482766,Io,Ranged,mekansm,,ring_of_basilius,holy_locket,dust,,0
-106,6574482766,Sand King,Melee,blink,phase_boots,heavens_halberd,black_king_bar,dust,quelling_blade,0
-107,6574482766,Batrider,Ranged,travel_boots,black_king_bar,octarine_core,blink,force_staff,bottle,0
-108,6574482766,Snapfire,Ranged,arcane_boots,ethereal_blade,ward_sentry,blink,force_staff,ultimate_scepter,0
-109,6574482766,Razor,Ranged,blink,black_king_bar,assault,power_treads,refresher,sphere,0
-110,6574385083,Disruptor,Ranged,dust,magic_wand,veil_of_discord,ward_dispenser,tranquil_boots,flask,0
-111,6574385083,Mars,Melee,phase_boots,clarity,blink,magic_wand,soul_ring,black_king_bar,0
-112,6574385083,Grimstroke,Ranged,magic_wand,,,boots,ward_sentry,fluffy_hat,0
-113,6574385083,Puck,Ranged,null_talisman,witch_blade,magic_wand,travel_boots,blink,bottle,0
-114,6574385083,Necrophos,Ranged,travel_boots,meteor_hammer,magic_wand,,hood_of_defiance,black_king_bar,0
-115,6574385083,Pugna,Ranged,aether_lens,tranquil_boots,infused_raindrop,,magic_wand,ward_dispenser,1
-116,6574385083,Batrider,Ranged,ancient_janggo,black_king_bar,boots,magic_wand,null_talisman,aether_lens,1
-117,6574385083,Storm Spirit,Ranged,null_talisman,black_king_bar,aegis,null_talisman,null_talisman,null_talisman,1
-118,6574385083,Mirana,Ranged,boots,cyclone,fluffy_hat,magic_wand,bracer,infused_raindrop,1
-119,6574385083,Lone Druid,Ranged,,,magic_wand,boots,,,1
-120,6574188575,Batrider,Ranged,boots_of_bearing,,black_king_bar,bottle,refresher,aether_lens,1
-121,6574188575,Snapfire,Ranged,maelstrom,travel_boots,black_king_bar,silver_edge,magic_wand,,1
-122,6574188575,Troll Warlord,Ranged,abyssal_blade,bfury,skadi,black_king_bar,aegis,ultimate_scepter,1
-123,6574188575,Tiny,Melee,arcane_boots,smoke_of_deceit,force_staff,quelling_blade,blink,magic_wand,1
-124,6574188575,Bane,Ranged,tranquil_boots,wraith_pact,,magic_wand,wind_lace,,1
-125,6574188575,Visage,Ranged,wraith_pact,boots,magic_wand,ward_dispenser,cloak,smoke_of_deceit,0
-126,6574188575,Phantom Lancer,Melee,diffusal_blade,power_treads,magic_wand,heart,manta,claymore,0
-127,6574188575,Pangolier,Melee,diffusal_blade,magic_wand,basher,power_treads,black_king_bar,orb_of_corrosion,0
-128,6574188575,Monkey King,Melee,cyclone,magic_wand,dust,orb_of_corrosion,ward_dispenser,,0
-129,6574188575,Mars,Melee,black_king_bar,blink,soul_ring,magic_wand,boots,bracer,0
-130,6574108422,Batrider,Ranged,boots_of_bearing,black_king_bar,gem,magic_wand,platemail,aether_lens,1
-131,6574108422,Snapfire,Ranged,force_staff,magic_stick,ghost,wraith_pact,boots,smoke_of_deceit,1
-132,6574108422,Tiny,Melee,magic_wand,lotus_orb,ghost,,blink,tranquil_boots,1
-133,6574108422,Bloodseeker,Melee,abyssal_blade,phase_boots,black_king_bar,mjollnir,sphere,pers,1
-134,6574108422,Pangolier,Melee,orb_of_corrosion,basher,black_king_bar,sphere,diffusal_blade,power_treads,1
-135,6574108422,Shadow Demon,Ranged,,boots,magic_wand,ward_dispenser,ultimate_scepter,aether_lens,0
-136,6574108422,Chaos Knight,Melee,armlet,blink,black_king_bar,power_treads,echo_sabre,basher,0
-137,6574108422,Sand King,Melee,blink,magic_wand,,sphere,black_king_bar,travel_boots,0
-138,6574108422,Grimstroke,Ranged,arcane_boots,magic_stick,,,ward_sentry,aether_lens,0
-139,6574108422,Slardar,Melee,power_treads,blink,mask_of_madness,black_king_bar,hyperstone,bracer,0
-140,6573503063,Enchantress,Ranged,force_staff,boots,solar_crest,glimmer_cape,magic_wand,gem,1
-141,6573503063,Tiny,Melee,blink,power_treads,black_king_bar,silver_edge,lifesteal,moon_shard,1
-142,6573503063,Lycan,Melee,assault,wraith_pact,power_treads,branches,quelling_blade,ultimate_scepter,1
-143,6573503063,Storm Spirit,Ranged,power_treads,witch_blade,black_king_bar,null_talisman,ultimate_scepter,null_talisman,1
-144,6573503063,Bane,Ranged,ancient_janggo,aether_lens,fluffy_hat,tranquil_boots,magic_stick,ward_sentry,1
-145,6573503063,Phoenix,Ranged,bracer,tranquil_boots,dust,heavens_halberd,spirit_vessel,,0
-146,6573503063,Lina,Ranged,travel_boots,lesser_crit,bottle,black_king_bar,shivas_guard,sphere,0
-147,6573503063,Pugna,Ranged,vladmir,tranquil_boots,dust,ward_dispenser,,,0
-148,6573503063,Bristleback,Melee,ultimate_scepter,mask_of_madness,soul_ring,power_treads,vanguard,heavens_halberd,0
-149,6573503063,Shadow Shaman,Ranged,magic_stick,branches,blink,tranquil_boots,,branches,0
-150,6573568264,Brewmaster,Melee,bracer,tranquil_boots,ogre_axe,quelling_blade,soul_ring,staff_of_wizardry,0
-151,6573568264,Leshrac,Ranged,arcane_boots,null_talisman,magic_wand,hood_of_defiance,bottle,cyclone,0
-152,6573568264,Bane,Ranged,branches,boots,wind_lace,fluffy_hat,ward_dispenser,smoke_of_deceit,0
-153,6573568264,Mirana,Ranged,wraith_band,boots,vladmir,magic_stick,,smoke_of_deceit,0
-154,6573568264,Tiny,Melee,quelling_blade,magic_wand,invis_sword,power_treads,echo_sabre,gauntlets,0
-155,6573568264,Enchantress,Ranged,medallion_of_courage,boots,magic_wand,glimmer_cape,fluffy_hat,dust,1
-156,6573568264,Chaos Knight,Melee,armlet,blink,magic_wand,black_king_bar,echo_sabre,power_treads,1
-157,6573568264,Beastmaster,Melee,ancient_janggo,helm_of_the_overlord,boots,,quelling_blade,,1
-158,6573568264,Storm Spirit,Ranged,power_treads,null_talisman,black_king_bar,bottle,null_talisman,null_talisman,1
-159,6573568264,Grimstroke,Ranged,infused_raindrop,tranquil_boots,smoke_of_deceit,wind_lace,magic_stick,aether_lens,1
-160,6573407404,Keeper of the Light,Ranged,magic_wand,spirit_vessel,wraith_pact,tranquil_boots,ghost,,1
-161,6573407404,Pangolier,Melee,diffusal_blade,power_treads,basher,satanic,black_king_bar,orb_of_corrosion,1
-162,6573407404,Night Stalker,Melee,black_king_bar,blink,basher,phase_boots,platemail,bracer,1
-163,6573407404,Silencer,Ranged,magic_wand,wraith_band,ancient_janggo,,tranquil_boots,fluffy_hat,1
-164,6573407404,Monkey King,Melee,monkey_king_bar,bfury,ultimate_scepter,basher,power_treads,black_king_bar,1
-165,6573407404,Timbersaw,Melee,black_king_bar,kaya_and_sange,soul_ring,arcane_boots,cyclone,ultimate_scepter,0
-166,6573407404,Bane,Ranged,force_staff,magic_wand,ward_sentry,shadow_amulet,boots,bracer,0
-167,6573407404,Ember Spirit,Melee,phase_boots,blink,magic_wand,bottle,black_king_bar,greater_crit,0
-168,6573407404,Phantom Assassin,Melee,power_treads,orb_of_corrosion,bfury,satanic,black_king_bar,desolator,0
-169,6573407404,Earthshaker,Melee,tranquil_boots,blink,ring_of_basilius,magic_wand,quelling_blade,wind_lace,0
-170,6573291227,Razor,Ranged,power_treads,sange_and_yasha,refresher,assault,black_king_bar,falcon_blade,0
-171,6573291227,Shadow Shaman,Ranged,blink,magic_wand,ward_sentry,dust,tranquil_boots,ogre_axe,0
-172,6573291227,Monkey King,Melee,power_treads,skadi,desolator,black_king_bar,nullifier,echo_sabre,0
-173,6573291227,Invoker,Ranged,travel_boots,blink,sheepstick,black_king_bar,refresher,octarine_core,0
-174,6573291227,Io,Ranged,ward_dispenser,wraith_pact,ghost,magic_wand,mekansm,dust,0
-175,6573291227,Mirana,Ranged,force_staff,ethereal_blade,spirit_vessel,travel_boots,sheepstick,wraith_pact,1
-176,6573291227,Void Spirit,Melee,ethereal_blade,aeon_disk,travel_boots,witch_blade,sphere,ultimate_scepter,1
-177,6573291227,Underlord,Melee,black_king_bar,overwhelming_blink,abyssal_blade,phase_boots,rod_of_atos,dust,1
-178,6573291227,Bane,Ranged,magic_stick,tranquil_boots,quelling_blade,force_staff,refresher,,1
-179,6573291227,Chaos Knight,Melee,assault,skadi,armlet,black_king_bar,travel_boots_2,arcane_blink,1
-180,6573182161,Abaddon,Melee,boots_of_bearing,ward_dispenser,ghost,dust,magic_wand,,0
-181,6573182161,Mars,Melee,phase_boots,platemail,blink,,ward_sentry,black_king_bar,0
-182,6573182161,Bane,Ranged,ultimate_scepter,ward_sentry,magic_wand,tranquil_boots,,,0
-183,6573182161,Death Prophet,Ranged,black_king_bar,hood_of_defiance,magic_wand,travel_boots,blink,lotus_orb,0
-184,6573182161,Nature's Prophet,Ranged,power_treads,black_king_bar,magic_wand,nullifier,skadi,mjollnir,0
-185,6573182161,Tiny,Melee,force_staff,cyclone,blink,ancient_janggo,quelling_blade,tranquil_boots,1
-186,6573182161,Kunkka,Melee,phase_boots,wraith_pact,ancient_janggo,gem,ultimate_scepter,ogre_axe,1
-187,6573182161,Batrider,Ranged,black_king_bar,refresher,blink,aether_lens,ultimate_scepter,travel_boots,1
-188,6573182161,Pugna,Ranged,magic_wand,ward_dispenser,glimmer_cape,force_staff,tranquil_boots,smoke_of_deceit,1
-189,6573182161,Templar Assassin,Ranged,swift_blink,ultimate_scepter,black_king_bar,hurricane_pike,sphere,desolator,1
-190,6573058524,Windranger,Ranged,force_staff,vladmir,blink,ward_sentry,,arcane_boots,0
-191,6573058524,Tidehunter,Melee,phase_boots,heavens_halberd,blink,shivas_guard,gem,black_king_bar,0
-192,6573058524,Storm Spirit,Ranged,null_talisman,bottle,black_king_bar,kaya_and_sange,ultimate_scepter,witch_blade,0
-193,6573058524,Pugna,Ranged,aeon_disk,ward_sentry,force_staff,dust,aether_lens,tranquil_boots,0
-194,6573058524,Faceless Void,Melee,blink,manta,maelstrom,skadi,aeon_disk,aegis,0
-195,6573058524,Nyx Assassin,Melee,ogre_axe,,magic_wand,blink,aether_lens,tranquil_boots,1
-196,6573058524,Mars,Melee,phase_boots,sheepstick,blink,,,black_king_bar,1
-197,6573058524,Io,Ranged,mekansm,soul_ring,hood_of_defiance,magic_wand,ghost,ward_dispenser,1
-198,6573058524,Templar Assassin,Ranged,nullifier,desolator,black_king_bar,power_treads,blink,monkey_king_bar,1
-199,6573058524,Nature's Prophet,Ranged,power_treads,bloodthorn,desolator,nullifier,black_king_bar,silver_edge,1
-200,6572937926,Bane,Ranged,magic_wand,,blink,black_king_bar,ring_of_protection,tranquil_boots,0
-201,6572937926,Mars,Melee,phase_boots,ward_observer,blink,soul_ring,refresher,black_king_bar,0
-202,6572937926,Mirana,Ranged,urn_of_shadows,ward_dispenser,,magic_wand,wraith_pact,boots,0
-203,6572937926,Leshrac,Ranged,platemail,kaya,cyclone,travel_boots,black_king_bar,aeon_disk,0
-204,6572937926,Nature's Prophet,Ranged,power_treads,nullifier,magic_wand,maelstrom,black_king_bar,silver_edge,0
-205,6572937926,Snapfire,Ranged,magic_stick,ultimate_scepter,force_staff,dust,,arcane_boots,1
-206,6572937926,Tidehunter,Melee,phase_boots,black_king_bar,blink,ultimate_scepter,gem,pipe,1
-207,6572937926,Kunkka,Melee,black_king_bar,sheepstick,phase_boots,cheese,assault,heavens_halberd,1
-208,6572937926,Pugna,Ranged,force_staff,,magic_wand,,tranquil_boots,aeon_disk,1
-209,6572937926,Templar Assassin,Ranged,blink,desolator,aegis,hurricane_pike,sphere,ultimate_scepter,1
-210,6571843720,Snapfire,Ranged,cyclone,magic_wand,blink,dust,point_booster,arcane_boots,1
-211,6571843720,Timbersaw,Melee,arcane_boots,hood_of_defiance,blink,black_king_bar,kaya_and_sange,ultimate_orb,1
-212,6571843720,Mars,Melee,black_king_bar,phase_boots,blink,soul_ring,bottle,aeon_disk,1
-213,6571843720,Viper,Ranged,enchanted_mango,boots_of_bearing,dust,magic_wand,aeon_disk,gem,1
-214,6571843720,Kunkka,Melee,armlet,satanic,black_king_bar,silver_edge,phase_boots,basher,1
-215,6571843720,Abaddon,Melee,ultimate_scepter,tranquil_boots,wind_lace,magic_wand,flask,ward_sentry,0
-216,6571843720,Enigma,Ranged,blink,arcane_boots,spirit_vessel,null_talisman,black_king_bar,,0
-217,6571843720,Dragon Knight,Melee,power_treads,black_king_bar,bracer,blink,soul_ring,bracer,0
-218,6571843720,Skywrath Mage,Ranged,arcane_boots,ward_sentry,null_talisman,blink,fluffy_hat,null_talisman,0
-219,6571843720,Clinkz,Ranged,dragon_lance,black_king_bar,magic_wand,power_treads,maelstrom,greater_crit,0
-220,6571843204,Bane,Ranged,ward_dispenser,boots,magic_wand,blink,dust,aether_lens,0
-221,6571843204,Anti-Mage,Melee,black_king_bar,assault,abyssal_blade,skadi,manta,bfury,0
-222,6571843204,Storm Spirit,Ranged,null_talisman,null_talisman,null_talisman,witch_blade,black_king_bar,sheepstick,0
-223,6571843204,Snapfire,Ranged,aether_lens,gem,tranquil_boots,blink,force_staff,magic_wand,0
-224,6571843204,Bloodseeker,Melee,phase_boots,rod_of_atos,black_king_bar,nullifier,basher,,0
-225,6571843204,Io,Ranged,lotus_orb,mekansm,soul_ring,ghost,aeon_disk,glimmer_cape,1
-226,6571843204,Leshrac,Ranged,sheepstick,bloodstone,sphere,silver_edge,black_king_bar,refresher,1
-227,6571843204,Night Stalker,Melee,black_king_bar,blink,basher,phase_boots,gem,sphere,1
-228,6571843204,Pugna,Ranged,magic_wand,tranquil_boots,glimmer_cape,force_staff,ward_dispenser,vladmir,1
-229,6571843204,Dragon Knight,Melee,ultimate_scepter,assault,silver_edge,black_king_bar,power_treads,swift_blink,1
-230,6571442714,Brewmaster,Melee,ward_observer,ultimate_scepter,spirit_vessel,boots,bracer,,0
-231,6571442714,Phoenix,Ranged,tranquil_boots,magic_stick,branches,black_king_bar,fluffy_hat,,0
-232,6571442714,Templar Assassin,Ranged,blink,desolator,black_king_bar,power_treads,dragon_lance,silver_edge,0
-233,6571442714,Necrophos,Ranged,lotus_orb,travel_boots,null_talisman,magic_wand,hood_of_defiance,kaya_and_sange,0
-234,6571442714,Treant Protector,Melee,tranquil_boots,magic_stick,,blink,ward_dispenser,clarity,0
-235,6571442714,Io,Ranged,mekansm,ghost,soul_ring,magic_wand,dust,cloak,1
-236,6571442714,Chaos Knight,Melee,blink,armlet,power_treads,black_king_bar,assault,echo_sabre,1
-237,6571442714,Dragon Knight,Melee,gem,blink,power_treads,black_king_bar,skadi,ultimate_scepter,1
-238,6571442714,Ember Spirit,Melee,phase_boots,spirit_vessel,kaya_and_sange,black_king_bar,orb_of_corrosion,shivas_guard,1
-239,6571442714,Snapfire,Ranged,blink,arcane_boots,force_staff,solar_crest,magic_wand,ward_sentry,1
-240,6571582160,Enchantress,Ranged,force_staff,boots,medallion_of_courage,glimmer_cape,magic_stick,gem,1
-241,6571582160,Monkey King,Melee,bfury,invis_sword,black_king_bar,power_treads,ultimate_scepter,wraith_band,1
-242,6571582160,Mars,Melee,soul_ring,overwhelming_blink,phase_boots,black_king_bar,bracer,bracer,1
-243,6571582160,Ember Spirit,Melee,phase_boots,black_king_bar,bottle,maelstrom,orb_of_corrosion,desolator,1
-244,6571582160,Bane,Ranged,dust,arcane_boots,ghost,glimmer_cape,magic_wand,ward_sentry,1
-245,6571582160,Tidehunter,Melee,black_king_bar,blink,bottle,phase_boots,bracer,soul_ring,0
-246,6571582160,Hoodwink,Ranged,boots,magic_wand,point_booster,dust,aether_lens,bracer,0
-247,6571582160,Storm Spirit,Ranged,kaya,black_king_bar,magic_wand,power_treads,null_talisman,null_talisman,0
-248,6571582160,Chaos Knight,Melee,armlet,power_treads,reaver,black_king_bar,echo_sabre,magic_wand,0
-249,6571582160,Weaver,Ranged,fluffy_hat,magic_wand,spirit_vessel,infused_raindrop,ward_dispenser,dust,0
-250,6571446779,Io,Ranged,magic_wand,mekansm,soul_ring,glimmer_cape,,ward_sentry,0
-251,6571446779,Leshrac,Ranged,cyclone,magic_wand,arcane_boots,kaya_and_sange,voodoo_mask,null_talisman,0
-252,6571446779,Mars,Melee,black_king_bar,blink,magic_wand,phase_boots,soul_ring,bracer,0
-253,6571446779,Ogre Magi,Melee,magic_wand,tranquil_boots,ward_dispenser,fluffy_hat,,smoke_of_deceit,0
-254,6571446779,Medusa,Ranged,magic_wand,quelling_blade,manta,dragon_lance,power_treads,skadi,0
-255,6571446779,Tiny,Melee,force_staff,magic_wand,blink,,wind_lace,tranquil_boots,1
-256,6571446779,Timbersaw,Melee,arcane_boots,shivas_guard,blink,hood_of_defiance,kaya_and_sange,magic_wand,1
-257,6571446779,Storm Spirit,Ranged,null_talisman,black_king_bar,magic_wand,witch_blade,null_talisman,null_talisman,1
-258,6571446779,Bane,Ranged,gem,,magic_wand,tranquil_boots,aether_lens,shadow_amulet,1
-259,6571446779,Ursa,Melee,blink,diffusal_blade,black_king_bar,aegis,phase_boots,basher,1
-260,6571554679,Tiny,Melee,force_staff,ghost,blink,magic_stick,,tranquil_boots,0
-261,6571554679,Death Prophet,Ranged,phase_boots,platemail,blink,magic_wand,bracer,black_king_bar,0
-262,6571554679,Batrider,Ranged,magic_wand,black_king_bar,blink,travel_boots,aether_lens,refresher,0
-263,6571554679,Shadow Demon,Ranged,ward_dispenser,aether_lens,blink,magic_wand,smoke_of_deceit,boots,0
-264,6571554679,Luna,Ranged,skadi,dragon_lance,black_king_bar,lifesteal,power_treads,butterfly,0
-265,6571554679,Snapfire,Ranged,blink,magic_wand,soul_ring,tranquil_boots,black_king_bar,greater_crit,1
-266,6571554679,Pangolier,Melee,blink,octarine_core,sphere,diffusal_blade,ultimate_scepter,basher,1
-267,6571554679,Enigma,Ranged,black_king_bar,blink,refresher,arcane_boots,spirit_vessel,sphere,1
-268,6571554679,Abaddon,Melee,tranquil_boots,vladmir,ward_sentry,magic_wand,blink,gem,1
-269,6571554679,Chaos Knight,Melee,skadi,bloodthorn,armlet,aegis,power_treads,swift_blink,1
-270,6571201844,Chaos Knight,Melee,echo_sabre,power_treads,armlet,overwhelming_blink,black_king_bar,assault,1
-271,6571201844,Queen of Pain,Ranged,black_king_bar,refresher,ghost,kaya_and_sange,power_treads,sheepstick,1
-272,6571201844,Tidehunter,Melee,shivas_guard,blink,phase_boots,pipe,ultimate_scepter,black_king_bar,1
-273,6571201844,Death Prophet,Ranged,blink,magic_wand,glimmer_cape,boots,fluffy_hat,gem,1
-274,6571201844,Shadow Shaman,Ranged,blink,magic_wand,black_king_bar,,tranquil_boots,clarity,1
-275,6571201844,Mars,Melee,phase_boots,blink,soul_ring,black_king_bar,,void_stone,0
-276,6571201844,Rubick,Ranged,arcane_boots,force_staff,glimmer_cape,magic_stick,ward_dispenser,,0
-277,6571201844,Faceless Void,Melee,black_king_bar,manta,power_treads,mjollnir,magic_stick,sphere,0
-278,6571201844,Jakiro,Ranged,force_staff,ethereal_blade,tome_of_knowledge,smoke_of_deceit,tranquil_boots,wind_lace,0
-279,6571201844,Venomancer,Ranged,dust,black_king_bar,spirit_vessel,boots,ultimate_scepter,magic_wand,0
-280,6571305244,Chaos Knight,Melee,sange,power_treads,armlet,magic_wand,black_king_bar,orb_of_venom,0
-281,6571305244,Lina,Ranged,black_king_bar,invis_sword,platemail,soul_ring,null_talisman,travel_boots,0
-282,6571305244,Mars,Melee,soul_ring,blink,phase_boots,black_king_bar,magic_wand,bracer,0
-283,6571305244,Shadow Demon,Ranged,wind_lace,,enchanted_mango,boots,ward_dispenser,aether_lens,0
-284,6571305244,Dark Willow,Ranged,blink,magic_wand,dust,tranquil_boots,,,0
-285,6571305244,Batrider,Ranged,boots_of_bearing,blink,black_king_bar,magic_wand,null_talisman,aether_lens,1
-286,6571305244,Snapfire,Ranged,blink,force_staff,ward_sentry,magic_wand,wind_lace,boots,1
-287,6571305244,Bloodseeker,Melee,sphere,phase_boots,black_king_bar,basher,vitality_booster,mjollnir,1
-288,6571305244,Tusk,Melee,force_staff,ward_sentry,magic_wand,tranquil_boots,blink,infused_raindrop,1
-289,6571305244,Templar Assassin,Ranged,magic_wand,power_treads,blink,desolator,greater_crit,black_king_bar,1
-290,6571200692,Shadow Shaman,Ranged,blink,ogre_axe,magic_wand,gem,tranquil_boots,,0
-291,6571200692,Mars,Melee,phase_boots,soul_ring,blink,basher,refresher,black_king_bar,0
-292,6571200692,Skywrath Mage,Ranged,ward_dispenser,magic_wand,ultimate_scepter,null_talisman,blink,boots,0
-293,6571200692,Puck,Ranged,sphere,kaya_and_sange,black_king_bar,travel_boots,blink,witch_blade,0
-294,6571200692,Visage,Ranged,boots_of_bearing,magic_wand,ultimate_scepter,null_talisman,,assault,0
-295,6571200692,Razor,Ranged,power_treads,black_king_bar,refresher,sange_and_yasha,hand_of_midas,wraith_band,1
-296,6571200692,Winter Wyvern,Ranged,blink,magic_wand,aether_lens,smoke_of_deceit,boots,,1
-297,6571200692,Ember Spirit,Melee,travel_boots,maelstrom,sheepstick,ultimate_scepter,black_king_bar,magic_wand,1
-298,6571200692,Wraith King,Melee,blink,desolator,black_king_bar,phase_boots,armlet,assault,1
-299,6571200692,Nyx Assassin,Melee,boots,,magic_wand,force_staff,quelling_blade,,1
-300,6571306390,Underlord,Melee,swift_blink,rod_of_atos,gem,power_treads,black_king_bar,basher,1
-301,6571306390,Windranger,Ranged,blink,black_king_bar,null_talisman,magic_wand,maelstrom,tranquil_boots,1
-302,6571306390,Puck,Ranged,hurricane_pike,blink,revenants_brooch,gungir,kaya_and_sange,sphere,1
-303,6571306390,Razor,Ranged,power_treads,skadi,refresher,sange_and_yasha,black_king_bar,assault,1
-304,6571306390,Io,Ranged,ward_dispenser,mekansm,cloak,cyclone,wraith_pact,magic_wand,1
-305,6571306390,Shadow Shaman,Ranged,blink,sobi_mask,ward_dispenser,black_king_bar,tranquil_boots,magic_wand,0
-306,6571306390,Mars,Melee,phase_boots,lotus_orb,blink,magic_wand,soul_ring,black_king_bar,0
-307,6571306390,Ancient Apparition,Ranged,magic_wand,,boots,fluffy_hat,glimmer_cape,blight_stone,0
-308,6571306390,Pangolier,Melee,orb_of_corrosion,aeon_disk,diffusal_blade,power_treads,blink,basher,0
-309,6571306390,Nature's Prophet,Ranged,power_treads,black_king_bar,sphere,greater_crit,silver_edge,maelstrom,0
-310,6571204733,Pangolier,Melee,orb_of_corrosion,diffusal_blade,wraith_band,arcane_boots,magic_wand,,0
-311,6571204733,Viper,Ranged,power_treads,dragon_lance,magic_wand,black_king_bar,bottle,,0
-312,6571204733,Keeper of the Light,Ranged,headdress,tranquil_boots,force_staff,infused_raindrop,ward_sentry,,0
-313,6571204733,Pugna,Ranged,aether_lens,cloak,circlet,enchanted_mango,tranquil_boots,mantle,0
-314,6571204733,Bristleback,Melee,ultimate_scepter,vanguard,magic_wand,power_treads,bracer,,0
-315,6571204733,Bane,Ranged,boots,magic_wand,cloak,aether_lens,wind_lace,ward_sentry,1
-316,6571204733,Juggernaut,Melee,bfury,sange_and_yasha,magic_wand,phase_boots,,wind_lace,1
-317,6571204733,Mars,Melee,phase_boots,blink,magic_wand,blight_stone,wind_lace,black_king_bar,1
-318,6571204733,Visage,Ranged,vladmir,tranquil_boots,magic_wand,assault,ancient_janggo,branches,1
-319,6571204733,Doom,Melee,enchanted_mango,blink,magic_wand,tranquil_boots,ward_dispenser,ogre_axe,1
-320,6571280989,Grimstroke,Ranged,boots,magic_stick,,wind_lace,aether_lens,ward_sentry,1
-321,6571280989,Medusa,Ranged,skadi,dragon_lance,manta,power_treads,magic_wand,wind_lace,1
-322,6571280989,Void Spirit,Melee,magic_wand,kaya,bottle,null_talisman,ultimate_scepter,travel_boots,1
-323,6571280989,Beastmaster,Melee,quelling_blade,helm_of_the_overlord,black_king_bar,,magic_wand,boots,1
-324,6571280989,Weaver,Ranged,ancient_janggo,urn_of_shadows,magic_wand,ogre_axe,ward_sentry,orchid,1
-325,6571280989,Phoenix,Ranged,bracer,dust,tranquil_boots,spirit_vessel,black_king_bar,,0
-326,6571280989,Puck,Ranged,power_treads,blink,null_talisman,bottle,witch_blade,cyclone,0
-327,6571280989,Doom,Melee,tranquil_boots,blink,black_king_bar,vitality_booster,dust,magic_stick,0
-328,6571280989,Bloodseeker,Melee,sphere,slippers,magic_wand,phase_boots,maelstrom,black_king_bar,0
-329,6571280989,Crystal Maiden,Ranged,fluffy_hat,tranquil_boots,aether_lens,cloak,ward_dispenser,dust,0
-330,6570284918,Ogre Magi,Melee,quelling_blade,tranquil_boots,magic_wand,force_staff,,ward_sentry,0
-331,6570284918,Templar Assassin,Ranged,silver_edge,power_treads,black_king_bar,hurricane_pike,desolator,monkey_king_bar,0
-332,6570284918,Pangolier,Melee,orb_of_corrosion,basher,black_king_bar,power_treads,diffusal_blade,sphere,0
-333,6570284918,Rubick,Ranged,blink,ward_observer,magic_wand,force_staff,arcane_boots,dust,0
-334,6570284918,Tidehunter,Melee,phase_boots,soul_ring,blink,quelling_blade,lotus_orb,cloak,0
-335,6570284918,Pugna,Ranged,force_staff,tranquil_boots,ward_sentry,ghost,magic_wand,dust,1
-336,6570284918,Dragon Knight,Melee,overwhelming_blink,black_king_bar,bracer,soul_ring,heavens_halberd,boots,1
-337,6570284918,Storm Spirit,Ranged,null_talisman,black_king_bar,null_talisman,null_talisman,null_talisman,witch_blade,1
-338,6570284918,Hoodwink,Ranged,tranquil_boots,aeon_disk,fluffy_hat,octarine_core,magic_wand,gem,1
-339,6570284918,Nature's Prophet,Ranged,orchid,black_king_bar,assault,power_treads,satanic,silver_edge,1
-340,6570398588,Grimstroke,Ranged,quelling_blade,arcane_boots,magic_wand,ward_dispenser,infused_raindrop,,0
-341,6570398588,Troll Warlord,Ranged,sphere,phase_boots,,magic_wand,manta,bfury,0
-342,6570398588,Storm Spirit,Ranged,null_talisman,null_talisman,black_king_bar,null_talisman,null_talisman,witch_blade,0
-343,6570398588,Keeper of the Light,Ranged,,tranquil_boots,magic_wand,quelling_blade,force_staff,platemail,0
-344,6570398588,Underlord,Melee,power_treads,rod_of_atos,soul_ring,black_king_bar,bracer,bracer,0
-345,6570398588,Treant Protector,Melee,blink,tranquil_boots,magic_stick,force_staff,ward_sentry,smoke_of_deceit,1
-346,6570398588,Dragon Knight,Melee,blink,power_treads,magic_stick,bracer,bracer,black_king_bar,1
-347,6570398588,Visage,Ranged,boots_of_bearing,magic_wand,pipe,null_talisman,wraith_pact,,1
-348,6570398588,Hoodwink,Ranged,arcane_boots,force_staff,ward_sentry,magic_wand,glimmer_cape,clarity,1
-349,6570398588,Alchemist,Melee,phase_boots,radiance,assault,aegis,overwhelming_blink,black_king_bar,1
-350,6580625364,Enchantress,Ranged,fluffy_hat,boots,magic_wand,wraith_pact,blight_stone,ward_observer,0
-351,6580625364,Monkey King,Melee,bfury,power_treads,black_king_bar,ultimate_scepter,magic_wand,branches,0
-352,6580625364,Chaos Knight,Melee,armlet,bracer,blink,black_king_bar,echo_sabre,power_treads,0
-353,6580625364,Keeper of the Light,Ranged,travel_boots,infused_raindrop,spirit_vessel,octarine_core,wind_lace,sheepstick,0
-354,6580625364,Bane,Ranged,tranquil_boots,aether_lens,enchanted_mango,smoke_of_deceit,fluffy_hat,ward_dispenser,0
-355,6580625364,Timbersaw,Melee,boots,black_king_bar,shivas_guard,kaya_and_sange,lotus_orb,soul_ring,1
-356,6580625364,Windranger,Ranged,blink,magic_wand,tranquil_boots,gem,pers,null_talisman,1
-357,6580625364,Tiny,Melee,phase_boots,blink,magic_wand,ultimate_scepter,black_king_bar,echo_sabre,1
-358,6580625364,Troll Warlord,Ranged,phase_boots,aegis,sphere,manta,satanic,maelstrom,1
-359,6580625364,Doom,Melee,tranquil_boots,blink,wraith_pact,magic_wand,quelling_blade,ogre_axe,1
-360,6580732041,Razor,Ranged,power_treads,sange_and_yasha,refresher,butterfly,black_king_bar,falcon_blade,1
-361,6580732041,Windranger,Ranged,magic_wand,wraith_pact,smoke_of_deceit,blink,null_talisman,tranquil_boots,1
-362,6580732041,Void Spirit,Melee,bottle,ultimate_scepter,magic_wand,power_treads,null_talisman,kaya_and_sange,1
-363,6580732041,Wraith King,Melee,blink,desolator,black_king_bar,phase_boots,armlet,assault,1
-364,6580732041,Clockwerk,Melee,tranquil_boots,ward_sentry,,magic_wand,black_king_bar,clarity,1
-365,6580732041,Enchantress,Ranged,force_staff,boots,magic_wand,solar_crest,vladmir,ward_dispenser,0
-366,6580732041,Anti-Mage,Melee,bfury,power_treads,manta,skadi,wraith_band,branches,0
-367,6580732041,Mars,Melee,soul_ring,blink,phase_boots,black_king_bar,bracer,bracer,0
-368,6580732041,Tiny,Melee,phase_boots,blink,lesser_crit,black_king_bar,echo_sabre,magic_wand,0
-369,6580732041,Grimstroke,Ranged,tranquil_boots,wind_lace,force_staff,aether_lens,branches,ward_dispenser,0
-370,6580245004,Shadow Shaman,Ranged,blink,force_staff,magic_wand,boots,aether_lens,ward_dispenser,0
-371,6580245004,Lina,Ranged,silver_edge,satanic,travel_boots,sphere,black_king_bar,wind_lace,0
-372,6580245004,Underlord,Melee,rod_of_atos,black_king_bar,wraith_pact,power_treads,soul_ring,dust,0
-373,6580245004,Elder Titan,Melee,magic_wand,tranquil_boots,ward_dispenser,cloak,ghost,ancient_janggo,0
-374,6580245004,Drow Ranger,Ranged,magic_wand,sphere,hurricane_pike,black_king_bar,power_treads,blink,0
-375,6580245004,Grimstroke,Ranged,travel_boots,force_staff,ghost,aether_lens,wind_lace,ward_dispenser,1
-376,6580245004,Medusa,Ranged,aegis,swift_blink,manta,power_treads,silver_edge,skadi,1
-377,6580245004,Rubick,Ranged,blink,ultimate_scepter,octarine_core,wind_lace,travel_boots,,1
-378,6580245004,Batrider,Ranged,blink,octarine_core,black_king_bar,force_staff,gem,travel_boots,1
-379,6580245004,Doom,Melee,heavens_halberd,blink,aether_lens,tranquil_boots,dust,black_king_bar,1
-380,6580376211,Doom,Melee,arcane_blink,wraith_pact,black_king_bar,tranquil_boots,magic_wand,dust,1
-381,6580376211,Puck,Ranged,blink,witch_blade,desolator,ethereal_blade,octarine_core,sphere,1
-382,6580376211,Night Stalker,Melee,black_king_bar,blink,nullifier,phase_boots,gem,,1
-383,6580376211,Enchantress,Ranged,magic_wand,power_treads,glimmer_cape,hurricane_pike,witch_blade,ancient_janggo,1
-384,6580376211,Templar Assassin,Ranged,monkey_king_bar,desolator,hurricane_pike,black_king_bar,silver_edge,swift_blink,1
-385,6580376211,Grimstroke,Ranged,boots,bracer,vladmir,bracer,bracer,ward_dispenser,0
-386,6580376211,Medusa,Ranged,nullifier,satanic,manta,power_treads,orchid,skadi,0
-387,6580376211,Pangolier,Melee,power_treads,diffusal_blade,heavens_halberd,bottle,orb_of_corrosion,basher,0
-388,6580376211,Necrophos,Ranged,urn_of_shadows,ancient_janggo,black_king_bar,lotus_orb,ghost,travel_boots,0
-389,6580376211,Shadow Shaman,Ranged,shadow_amulet,blink,magic_wand,tranquil_boots,ward_sentry,ghost,0
-390,6580504708,Doom,Melee,blink,magic_stick,black_king_bar,tranquil_boots,vladmir,point_booster,1
-391,6580504708,Pangolier,Melee,basher,power_treads,bottle,diffusal_blade,black_king_bar,orb_of_corrosion,1
-392,6580504708,Enigma,Ranged,black_king_bar,blink,infused_raindrop,arcane_boots,spirit_vessel,wind_lace,1
-393,6580504708,Enchantress,Ranged,magic_wand,power_treads,ward_dispenser,force_staff,dragon_lance,ancient_janggo,1
-394,6580504708,Templar Assassin,Ranged,dragon_lance,power_treads,desolator,black_king_bar,silver_edge,blink,1
-395,6580504708,Io,Ranged,fluffy_hat,soul_ring,magic_stick,mekansm,,ward_sentry,0
-396,6580504708,Gyrocopter,Ranged,magic_wand,lifesteal,black_king_bar,power_treads,lesser_crit,ultimate_scepter,0
-397,6580504708,Mars,Melee,phase_boots,blink,magic_wand,soul_ring,orb_of_corrosion,black_king_bar,0
-398,6580504708,Viper,Ranged,urn_of_shadows,dragon_lance,power_treads,black_king_bar,magic_wand,wraith_band,0
-399,6580504708,Monkey King,Melee,phase_boots,black_king_bar,magic_wand,wraith_band,orb_of_corrosion,,0
-400,6579931950,Razor,Ranged,power_treads,reaver,wraith_band,sange_and_yasha,black_king_bar,falcon_blade,1
-401,6579931950,Windranger,Ranged,blink,magic_wand,null_talisman,pers,tranquil_boots,ward_sentry,1
-402,6579931950,Void Spirit,Melee,phase_boots,ultimate_scepter,magic_wand,void_stone,null_talisman,witch_blade,1
-403,6579931950,Chaos Knight,Melee,blink,bracer,black_king_bar,power_treads,armlet,invis_sword,1
-404,6579931950,Phoenix,Ranged,tranquil_boots,magic_stick,ward_sentry,ultimate_orb,wraith_pact,,1
-405,6579931950,Tusk,Melee,magic_wand,,blink,,,boots,0
-406,6579931950,Snapfire,Ranged,power_treads,soul_ring,blink,ogre_axe,bracer,magic_wand,0
-407,6579931950,Mars,Melee,black_king_bar,soul_ring,blink,blades_of_attack,bottle,boots,0
-408,6579931950,Pugna,Ranged,tranquil_boots,smoke_of_deceit,magic_wand,ward_dispenser,buckler,fluffy_hat,0
-409,6579931950,Faceless Void,Melee,ogre_axe,orb_of_corrosion,mithril_hammer,mjollnir,power_treads,magic_wand,0
-410,6580016442,Mirana,Ranged,magic_wand,spirit_vessel,veil_of_discord,ward_observer,,boots,0
-411,6580016442,Sand King,Melee,boots,soul_ring,blink,staff_of_wizardry,bracer,magic_wand,0
-412,6580016442,Storm Spirit,Ranged,null_talisman,black_king_bar,null_talisman,null_talisman,null_talisman,null_talisman,0
-413,6580016442,Pugna,Ranged,vladmir,ward_dispenser,branches,magic_wand,tranquil_boots,dust,0
-414,6580016442,Terrorblade,Melee,skadi,manta,black_king_bar,,power_treads,dragon_lance,0
-415,6580016442,Viper,Ranged,power_treads,sphere,magic_wand,dragon_lance,black_king_bar,wraith_band,1
-416,6580016442,Kunkka,Melee,phase_boots,blink,heavens_halberd,bracer,black_king_bar,bracer,1
-417,6580016442,Monkey King,Melee,magic_wand,pipe,,wraith_pact,fluffy_hat,circlet,1
-418,6580016442,Faceless Void,Melee,power_treads,gem,sphere,magic_wand,mjollnir,skadi,1
-419,6580016442,Nyx Assassin,Melee,tranquil_boots,ward_observer,dust,force_staff,magic_wand,smoke_of_deceit,1
-420,6579165262,Mars,Melee,phase_boots,blink,soul_ring,black_king_bar,quelling_blade,bracer,0
-421,6579165262,Kunkka,Melee,phase_boots,quelling_blade,black_king_bar,sange,assault,bracer,0
-422,6579165262,Io,Ranged,smoke_of_deceit,,mekansm,magic_stick,fluffy_hat,bracer,0
-423,6579165262,Gyrocopter,Ranged,lesser_crit,manta,power_treads,black_king_bar,lifesteal,ultimate_scepter,0
-424,6579165262,Rubick,Ranged,magic_wand,force_staff,quelling_blade,arcane_boots,ward_observer,,0
-425,6579165262,Bane,Ranged,ward_dispenser,tranquil_boots,magic_wand,smoke_of_deceit,fluffy_hat,vladmir,1
-426,6579165262,Monkey King,Melee,bfury,power_treads,black_king_bar,wraith_band,greater_crit,ultimate_scepter,1
-427,6579165262,Chaos Knight,Melee,armlet,echo_sabre,blink,black_king_bar,power_treads,bracer,1
-428,6579165262,Ember Spirit,Melee,phase_boots,black_king_bar,bottle,ultimate_scepter,maelstrom,magic_wand,1
-429,6579165262,Keeper of the Light,Ranged,wind_lace,boots,force_staff,spirit_vessel,magic_wand,ward_sentry,1
-430,6579091075,Enchantress,Ranged,wraith_pact,boots,magic_wand,cloak,gem,blight_stone,1
-431,6579091075,Chaos Knight,Melee,blink,armlet,black_king_bar,silver_edge,echo_sabre,power_treads,1
-432,6579091075,Legion Commander,Melee,blade_mail,bracer,blink,black_king_bar,bracer,power_treads,1
-433,6579091075,Ember Spirit,Melee,phase_boots,black_king_bar,sphere,orb_of_corrosion,maelstrom,ultimate_scepter,1
-434,6579091075,Grimstroke,Ranged,ancient_janggo,tranquil_boots,fluffy_hat,aether_lens,magic_stick,ward_dispenser,1
-435,6579091075,Batrider,Ranged,boots,ancient_janggo,black_king_bar,magic_wand,aether_lens,null_talisman,0
-436,6579091075,Pugna,Ranged,point_booster,ward_sentry,ring_of_basilius,magic_wand,tranquil_boots,buckler,0
-437,6579091075,Bloodseeker,Melee,ultimate_orb,phase_boots,boots_of_elves,black_king_bar,magic_wand,maelstrom,0
-438,6579091075,Spirit Breaker,Melee,phase_boots,magic_wand,,wind_lace,bracer,bracer,0
-439,6579091075,Bristleback,Melee,bottle,heavens_halberd,ultimate_scepter,magic_stick,boots,vanguard,0
+0,6573058524,Windranger,Ranged,force_staff,vladmir,blink,ward_sentry,,arcane_boots,0
+1,6573058524,Tidehunter,Melee,phase_boots,heavens_halberd,blink,shivas_guard,gem,black_king_bar,0
+2,6573058524,Storm Spirit,Ranged,null_talisman,bottle,black_king_bar,kaya_and_sange,ultimate_scepter,witch_blade,0
+3,6573058524,Pugna,Ranged,aeon_disk,ward_sentry,force_staff,dust,aether_lens,tranquil_boots,0
+4,6573058524,Faceless Void,Melee,blink,manta,maelstrom,skadi,aeon_disk,aegis,0
+5,6573058524,Nyx Assassin,Melee,ogre_axe,,magic_wand,blink,aether_lens,tranquil_boots,1
+6,6573058524,Mars,Melee,phase_boots,sheepstick,blink,,,black_king_bar,1
+7,6573058524,Io,Ranged,mekansm,soul_ring,hood_of_defiance,magic_wand,ghost,ward_dispenser,1
+8,6573058524,Templar Assassin,Ranged,nullifier,desolator,black_king_bar,power_treads,blink,monkey_king_bar,1
+9,6573058524,Nature's Prophet,Ranged,power_treads,bloodthorn,desolator,nullifier,black_king_bar,silver_edge,1
+10,6572725458,Grimstroke,Ranged,ghost,blink,glimmer_cape,travel_boots,aether_lens,,0
+11,6572725458,Chaos Knight,Melee,armlet,blink,black_king_bar,power_treads,assault,monkey_king_bar,0
+12,6572725458,Tiny,Melee,blink,silver_edge,revenants_brooch,boots,moon_shard,black_king_bar,0
+13,6572725458,Doom,Melee,arcane_blink,heavens_halberd,phase_boots,black_king_bar,refresher,ultimate_scepter,0
+14,6572725458,Shadow Demon,Ranged,shadow_amulet,blink,ultimate_scepter,tranquil_boots,aether_lens,ghost,0
+15,6572725458,Hoodwink,Ranged,ultimate_scepter,arcane_boots,magic_wand,blink,dust,ward_dispenser,1
+16,6572725458,Phantom Assassin,Melee,aegis,black_king_bar,abyssal_blade,monkey_king_bar,sphere,bfury,1
+17,6572725458,Pangolier,Melee,skadi,basher,gem,power_treads,black_king_bar,sphere,1
+18,6572725458,Snapfire,Ranged,blink,boots,aeon_disk,sphere,gem,glimmer_cape,1
+19,6572725458,Dragon Knight,Melee,power_treads,satanic,overwhelming_blink,black_king_bar,refresher_shard,sphere,1
+20,6571554679,Tiny,Melee,force_staff,ghost,blink,magic_stick,,tranquil_boots,0
+21,6571554679,Death Prophet,Ranged,phase_boots,platemail,blink,magic_wand,bracer,black_king_bar,0
+22,6571554679,Batrider,Ranged,magic_wand,black_king_bar,blink,travel_boots,aether_lens,refresher,0
+23,6571554679,Shadow Demon,Ranged,ward_dispenser,aether_lens,blink,magic_wand,smoke_of_deceit,boots,0
+24,6571554679,Luna,Ranged,skadi,dragon_lance,black_king_bar,lifesteal,power_treads,butterfly,0
+25,6571554679,Snapfire,Ranged,blink,magic_wand,soul_ring,tranquil_boots,black_king_bar,greater_crit,1
+26,6571554679,Pangolier,Melee,blink,octarine_core,sphere,diffusal_blade,ultimate_scepter,basher,1
+27,6571554679,Enigma,Ranged,black_king_bar,blink,refresher,arcane_boots,spirit_vessel,sphere,1
+28,6571554679,Abaddon,Melee,tranquil_boots,vladmir,ward_sentry,magic_wand,blink,gem,1
+29,6571554679,Chaos Knight,Melee,skadi,bloodthorn,armlet,aegis,power_treads,swift_blink,1
+30,6571446779,Io,Ranged,magic_wand,mekansm,soul_ring,glimmer_cape,,ward_sentry,0
+31,6571446779,Leshrac,Ranged,cyclone,magic_wand,arcane_boots,kaya_and_sange,voodoo_mask,null_talisman,0
+32,6571446779,Mars,Melee,black_king_bar,blink,magic_wand,phase_boots,soul_ring,bracer,0
+33,6571446779,Ogre Magi,Melee,magic_wand,tranquil_boots,ward_dispenser,fluffy_hat,,smoke_of_deceit,0
+34,6571446779,Medusa,Ranged,magic_wand,quelling_blade,manta,dragon_lance,power_treads,skadi,0
+35,6571446779,Tiny,Melee,force_staff,magic_wand,blink,,wind_lace,tranquil_boots,1
+36,6571446779,Timbersaw,Melee,arcane_boots,shivas_guard,blink,hood_of_defiance,kaya_and_sange,magic_wand,1
+37,6571446779,Storm Spirit,Ranged,null_talisman,black_king_bar,magic_wand,witch_blade,null_talisman,null_talisman,1
+38,6571446779,Bane,Ranged,gem,,magic_wand,tranquil_boots,aether_lens,shadow_amulet,1
+39,6571446779,Ursa,Melee,blink,diffusal_blade,black_king_bar,aegis,phase_boots,basher,1
+40,6571966593,Grimstroke,Ranged,glimmer_cape,tranquil_boots,,ward_sentry,magic_wand,smoke_of_deceit,0
+41,6571966593,Mars,Melee,blink,phase_boots,dust,soul_ring,black_king_bar,bracer,0
+42,6571966593,Visage,Ranged,boots_of_bearing,magic_wand,null_talisman,vladmir,force_staff,null_talisman,0
+43,6571966593,Io,Ranged,urn_of_shadows,holy_locket,ward_dispenser,smoke_of_deceit,infused_raindrop,cloak,0
+44,6571966593,Lifestealer,Melee,phase_boots,assault,magic_wand,armlet,desolator,bracer,0
+45,6571966593,Hoodwink,Ranged,blink,spirit_vessel,blight_stone,boots,aether_lens,magic_wand,1
+46,6571966593,Storm Spirit,Ranged,null_talisman,null_talisman,null_talisman,shivas_guard,black_king_bar,witch_blade,1
+47,6571966593,Underlord,Melee,rod_of_atos,crimson_guard,magic_wand,power_treads,soul_ring,bracer,1
+48,6571966593,Pugna,Ranged,magic_wand,tranquil_boots,glimmer_cape,force_staff,infused_raindrop,ward_sentry,1
+49,6571966593,Monkey King,Melee,basher,bfury,aegis,ultimate_scepter,power_treads,black_king_bar,1
+50,6571201844,Chaos Knight,Melee,echo_sabre,power_treads,armlet,overwhelming_blink,black_king_bar,assault,1
+51,6571201844,Queen of Pain,Ranged,black_king_bar,refresher,ghost,kaya_and_sange,power_treads,sheepstick,1
+52,6571201844,Tidehunter,Melee,shivas_guard,blink,phase_boots,pipe,ultimate_scepter,black_king_bar,1
+53,6571201844,Death Prophet,Ranged,blink,magic_wand,glimmer_cape,boots,fluffy_hat,gem,1
+54,6571201844,Shadow Shaman,Ranged,blink,magic_wand,black_king_bar,,tranquil_boots,clarity,1
+55,6571201844,Mars,Melee,phase_boots,blink,soul_ring,black_king_bar,,void_stone,0
+56,6571201844,Rubick,Ranged,arcane_boots,force_staff,glimmer_cape,magic_stick,ward_dispenser,,0
+57,6571201844,Faceless Void,Melee,black_king_bar,manta,power_treads,mjollnir,magic_stick,sphere,0
+58,6571201844,Jakiro,Ranged,force_staff,ethereal_blade,tome_of_knowledge,smoke_of_deceit,tranquil_boots,wind_lace,0
+59,6571201844,Venomancer,Ranged,dust,black_king_bar,spirit_vessel,boots,ultimate_scepter,magic_wand,0
+60,6573291227,Razor,Ranged,power_treads,sange_and_yasha,refresher,assault,black_king_bar,falcon_blade,0
+61,6573291227,Shadow Shaman,Ranged,blink,magic_wand,ward_sentry,dust,tranquil_boots,ogre_axe,0
+62,6573291227,Monkey King,Melee,power_treads,skadi,desolator,black_king_bar,nullifier,echo_sabre,0
+63,6573291227,Invoker,Ranged,travel_boots,blink,sheepstick,black_king_bar,refresher,octarine_core,0
+64,6573291227,Io,Ranged,ward_dispenser,wraith_pact,ghost,magic_wand,mekansm,dust,0
+65,6573291227,Mirana,Ranged,force_staff,ethereal_blade,spirit_vessel,travel_boots,sheepstick,wraith_pact,1
+66,6573291227,Void Spirit,Melee,ethereal_blade,aeon_disk,travel_boots,witch_blade,sphere,ultimate_scepter,1
+67,6573291227,Underlord,Melee,black_king_bar,overwhelming_blink,abyssal_blade,phase_boots,rod_of_atos,dust,1
+68,6573291227,Bane,Ranged,magic_stick,tranquil_boots,quelling_blade,force_staff,refresher,,1
+69,6573291227,Chaos Knight,Melee,assault,skadi,armlet,black_king_bar,travel_boots_2,arcane_blink,1
+70,6573182161,Abaddon,Melee,boots_of_bearing,ward_dispenser,ghost,dust,magic_wand,,0
+71,6573182161,Mars,Melee,phase_boots,platemail,blink,,ward_sentry,black_king_bar,0
+72,6573182161,Bane,Ranged,ultimate_scepter,ward_sentry,magic_wand,tranquil_boots,,,0
+73,6573182161,Death Prophet,Ranged,black_king_bar,hood_of_defiance,magic_wand,travel_boots,blink,lotus_orb,0
+74,6573182161,Nature's Prophet,Ranged,power_treads,black_king_bar,magic_wand,nullifier,skadi,mjollnir,0
+75,6573182161,Tiny,Melee,force_staff,cyclone,blink,ancient_janggo,quelling_blade,tranquil_boots,1
+76,6573182161,Kunkka,Melee,phase_boots,wraith_pact,ancient_janggo,gem,ultimate_scepter,ogre_axe,1
+77,6573182161,Batrider,Ranged,black_king_bar,refresher,blink,aether_lens,ultimate_scepter,travel_boots,1
+78,6573182161,Pugna,Ranged,magic_wand,ward_dispenser,glimmer_cape,force_staff,tranquil_boots,smoke_of_deceit,1
+79,6573182161,Templar Assassin,Ranged,swift_blink,ultimate_scepter,black_king_bar,hurricane_pike,sphere,desolator,1
+80,6578799684,Centaur Warrunner,Melee,blink,ring_of_protection,vanguard,platemail,heavens_halberd,boots,0
+81,6578799684,Pugna,Ranged,magic_wand,ward_dispenser,vladmir,fluffy_hat,,tranquil_boots,0
+82,6578799684,Ember Spirit,Melee,phase_boots,ultimate_scepter,,bottle,black_king_bar,maelstrom,0
+83,6578799684,Chaos Knight,Melee,blink,assault,black_king_bar,power_treads,armlet,soul_ring,0
+84,6578799684,Enigma,Ranged,arcane_boots,blink,black_king_bar,blight_stone,sobi_mask,gem,0
+85,6578799684,Earth Spirit,Melee,quelling_blade,black_king_bar,spirit_vessel,boots,,magic_wand,1
+86,6578799684,Mirana,Ranged,boots,magic_wand,,,cyclone,wraith_pact,1
+87,6578799684,Kunkka,Melee,sheepstick,bracer,black_king_bar,phase_boots,bracer,assault,1
+88,6578799684,Medusa,Ranged,manta,silver_edge,ultimate_scepter,aegis,skadi,butterfly,1
+89,6578799684,Elder Titan,Melee,boots_of_bearing,magic_stick,infused_raindrop,shadow_amulet,ward_sentry,clarity,1
+90,6574108422,Batrider,Ranged,boots_of_bearing,black_king_bar,gem,magic_wand,platemail,aether_lens,1
+91,6574108422,Snapfire,Ranged,force_staff,magic_stick,ghost,wraith_pact,boots,smoke_of_deceit,1
+92,6574108422,Tiny,Melee,magic_wand,lotus_orb,ghost,,blink,tranquil_boots,1
+93,6574108422,Bloodseeker,Melee,abyssal_blade,phase_boots,black_king_bar,mjollnir,sphere,pers,1
+94,6574108422,Pangolier,Melee,orb_of_corrosion,basher,black_king_bar,sphere,diffusal_blade,power_treads,1
+95,6574108422,Shadow Demon,Ranged,,boots,magic_wand,ward_dispenser,ultimate_scepter,aether_lens,0
+96,6574108422,Chaos Knight,Melee,armlet,blink,black_king_bar,power_treads,echo_sabre,basher,0
+97,6574108422,Sand King,Melee,blink,magic_wand,,sphere,black_king_bar,travel_boots,0
+98,6574108422,Grimstroke,Ranged,arcane_boots,magic_stick,,,ward_sentry,aether_lens,0
+99,6574108422,Slardar,Melee,power_treads,blink,mask_of_madness,black_king_bar,hyperstone,bracer,0
+100,6578674296,Visage,Ranged,null_talisman,,wraith_pact,boots_of_bearing,magic_wand,,0
+101,6578674296,Doom,Melee,tranquil_boots,blink,magic_wand,black_king_bar,platemail,dust,0
+102,6578674296,Ember Spirit,Melee,black_king_bar,ultimate_scepter,orb_of_corrosion,phase_boots,shivas_guard,bottle,0
+103,6578674296,Wraith King,Melee,phase_boots,silver_edge,desolator,armlet,blink,black_king_bar,0
+104,6578674296,Keeper of the Light,Ranged,tranquil_boots,magic_wand,ward_dispenser,force_staff,lotus_orb,,0
+105,6578674296,Mars,Melee,black_king_bar,sphere,satanic,ultimate_scepter,phase_boots,gem,1
+106,6578674296,Windranger,Ranged,blink,magic_wand,tranquil_boots,lotus_orb,null_talisman,wind_lace,1
+107,6578674296,Pangolier,Melee,travel_boots,blink,diffusal_blade,sphere,ultimate_scepter,basher,1
+108,6578674296,Juggernaut,Melee,phase_boots,skadi,mjollnir,manta,abyssal_blade,sphere,1
+109,6578674296,Enigma,Ranged,boots,blink,black_king_bar,ward_dispenser,wraith_pact,clarity,1
+110,6571442714,Brewmaster,Melee,ward_observer,ultimate_scepter,spirit_vessel,boots,bracer,,0
+111,6571442714,Phoenix,Ranged,tranquil_boots,magic_stick,branches,black_king_bar,fluffy_hat,,0
+112,6571442714,Templar Assassin,Ranged,blink,desolator,black_king_bar,power_treads,dragon_lance,silver_edge,0
+113,6571442714,Necrophos,Ranged,lotus_orb,travel_boots,null_talisman,magic_wand,hood_of_defiance,kaya_and_sange,0
+114,6571442714,Treant Protector,Melee,tranquil_boots,magic_stick,,blink,ward_dispenser,clarity,0
+115,6571442714,Io,Ranged,mekansm,ghost,soul_ring,magic_wand,dust,cloak,1
+116,6571442714,Chaos Knight,Melee,blink,armlet,power_treads,black_king_bar,assault,echo_sabre,1
+117,6571442714,Dragon Knight,Melee,gem,blink,power_treads,black_king_bar,skadi,ultimate_scepter,1
+118,6571442714,Ember Spirit,Melee,phase_boots,spirit_vessel,kaya_and_sange,black_king_bar,orb_of_corrosion,shivas_guard,1
+119,6571442714,Snapfire,Ranged,blink,arcane_boots,force_staff,solar_crest,magic_wand,ward_sentry,1
+120,6579165262,Mars,Melee,phase_boots,blink,soul_ring,black_king_bar,quelling_blade,bracer,0
+121,6579165262,Kunkka,Melee,phase_boots,quelling_blade,black_king_bar,sange,assault,bracer,0
+122,6579165262,Io,Ranged,smoke_of_deceit,,mekansm,magic_stick,fluffy_hat,bracer,0
+123,6579165262,Gyrocopter,Ranged,lesser_crit,manta,power_treads,black_king_bar,lifesteal,ultimate_scepter,0
+124,6579165262,Rubick,Ranged,magic_wand,force_staff,quelling_blade,arcane_boots,ward_observer,,0
+125,6579165262,Bane,Ranged,ward_dispenser,tranquil_boots,magic_wand,smoke_of_deceit,fluffy_hat,vladmir,1
+126,6579165262,Monkey King,Melee,bfury,power_treads,black_king_bar,wraith_band,greater_crit,ultimate_scepter,1
+127,6579165262,Chaos Knight,Melee,armlet,echo_sabre,blink,black_king_bar,power_treads,bracer,1
+128,6579165262,Ember Spirit,Melee,phase_boots,black_king_bar,bottle,ultimate_scepter,maelstrom,magic_wand,1
+129,6579165262,Keeper of the Light,Ranged,wind_lace,boots,force_staff,spirit_vessel,magic_wand,ward_sentry,1
+130,6574603408,Rubick,Ranged,blink,tranquil_boots,ultimate_scepter,aether_lens,black_king_bar,,0
+131,6574603408,Pangolier,Melee,blink,sphere,arcane_boots,,orb_of_corrosion,bracer,0
+132,6574603408,Snapfire,Ranged,travel_boots,black_king_bar,sphere,blink,,silver_edge,0
+133,6574603408,Winter Wyvern,Ranged,power_treads,glimmer_cape,ultimate_scepter,blink,force_staff,null_talisman,0
+134,6574603408,Lone Druid,Ranged,wraith_band,branches,branches,boots,,,0
+135,6574603408,Grimstroke,Ranged,blink,octarine_core,wraith_pact,,tranquil_boots,,1
+136,6574603408,Underlord,Melee,power_treads,shivas_guard,overwhelming_blink,rod_of_atos,sheepstick,black_king_bar,1
+137,6574603408,Doom,Melee,invis_sword,heavens_halberd,black_king_bar,magic_wand,arcane_blink,tranquil_boots,1
+138,6574603408,Void Spirit,Melee,refresher_shard,ultimate_scepter,ethereal_blade,travel_boots_2,black_king_bar,aeon_disk,1
+139,6574603408,Chaos Knight,Melee,bloodthorn,silver_edge,heart,assault,black_king_bar,arcane_blink,1
+140,6573407404,Keeper of the Light,Ranged,magic_wand,spirit_vessel,wraith_pact,tranquil_boots,ghost,,1
+141,6573407404,Pangolier,Melee,diffusal_blade,power_treads,basher,satanic,black_king_bar,orb_of_corrosion,1
+142,6573407404,Night Stalker,Melee,black_king_bar,blink,basher,phase_boots,platemail,bracer,1
+143,6573407404,Silencer,Ranged,magic_wand,wraith_band,ancient_janggo,,tranquil_boots,fluffy_hat,1
+144,6573407404,Monkey King,Melee,monkey_king_bar,bfury,ultimate_scepter,basher,power_treads,black_king_bar,1
+145,6573407404,Timbersaw,Melee,black_king_bar,kaya_and_sange,soul_ring,arcane_boots,cyclone,ultimate_scepter,0
+146,6573407404,Bane,Ranged,force_staff,magic_wand,ward_sentry,shadow_amulet,boots,bracer,0
+147,6573407404,Ember Spirit,Melee,phase_boots,blink,magic_wand,bottle,black_king_bar,greater_crit,0
+148,6573407404,Phantom Assassin,Melee,power_treads,orb_of_corrosion,bfury,satanic,black_king_bar,desolator,0
+149,6573407404,Earthshaker,Melee,tranquil_boots,blink,ring_of_basilius,magic_wand,quelling_blade,wind_lace,0
+150,6571965781,Snapfire,Ranged,mekansm,aeon_disk,blink,magic_wand,gem,travel_boots,1
+151,6571965781,Venomancer,Ranged,travel_boots,,blink,spirit_vessel,ultimate_scepter,pipe,1
+152,6571965781,Tiny,Melee,black_king_bar,greater_crit,blink,phase_boots,echo_sabre,assault,1
+153,6571965781,Abaddon,Melee,dust,holy_locket,ward_sentry,gem,boots,ultimate_scepter,1
+154,6571965781,Chaos Knight,Melee,arcane_blink,bloodthorn,black_king_bar,silver_edge,travel_boots_2,armlet,1
+155,6571965781,Bane,Ranged,glimmer_cape,arcane_boots,magic_wand,ward_dispenser,smoke_of_deceit,ghost,0
+156,6571965781,Spectre,Melee,hood_of_defiance,power_treads,radiance,ultimate_scepter,manta,ultimate_orb,0
+157,6571965781,Invoker,Ranged,black_king_bar,kaya,spirit_vessel,travel_boots,shivas_guard,ultimate_scepter,0
+158,6571965781,Mirana,Ranged,veil_of_discord,magic_wand,tranquil_boots,platemail,force_staff,,0
+159,6571965781,Sand King,Melee,boots,overwhelming_blink,black_king_bar,quelling_blade,magic_wand,bracer,0
+160,6570284918,Ogre Magi,Melee,quelling_blade,tranquil_boots,magic_wand,force_staff,,ward_sentry,0
+161,6570284918,Templar Assassin,Ranged,silver_edge,power_treads,black_king_bar,hurricane_pike,desolator,monkey_king_bar,0
+162,6570284918,Pangolier,Melee,orb_of_corrosion,basher,black_king_bar,power_treads,diffusal_blade,sphere,0
+163,6570284918,Rubick,Ranged,blink,ward_observer,magic_wand,force_staff,arcane_boots,dust,0
+164,6570284918,Tidehunter,Melee,phase_boots,soul_ring,blink,quelling_blade,lotus_orb,cloak,0
+165,6570284918,Pugna,Ranged,force_staff,tranquil_boots,ward_sentry,ghost,magic_wand,dust,1
+166,6570284918,Dragon Knight,Melee,overwhelming_blink,black_king_bar,bracer,soul_ring,heavens_halberd,boots,1
+167,6570284918,Storm Spirit,Ranged,null_talisman,black_king_bar,null_talisman,null_talisman,null_talisman,witch_blade,1
+168,6570284918,Hoodwink,Ranged,tranquil_boots,aeon_disk,fluffy_hat,octarine_core,magic_wand,gem,1
+169,6570284918,Nature's Prophet,Ranged,orchid,black_king_bar,assault,power_treads,satanic,silver_edge,1
+170,6574739883,Timbersaw,Melee,octarine_core,black_king_bar,sheepstick,kaya_and_sange,cyclone,hood_of_defiance,1
+171,6574739883,Ember Spirit,Melee,phase_boots,maelstrom,ultimate_scepter,black_king_bar,refresher,platemail,1
+172,6574739883,Windranger,Ranged,blink,black_king_bar,,pipe,lesser_crit,tranquil_boots,1
+173,6574739883,Chaos Knight,Melee,arcane_blink,skadi,bloodthorn,cheese,armlet,black_king_bar,1
+174,6574739883,Pugna,Ranged,tranquil_boots,blink,gem,aether_lens,wraith_pact,aeon_disk,1
+175,6574739883,Snapfire,Ranged,magic_wand,veil_of_discord,force_staff,,tranquil_boots,wraith_pact,0
+176,6574739883,Phoenix,Ranged,urn_of_shadows,black_king_bar,tranquil_boots,holy_locket,ward_sentry,ward_observer,0
+177,6574739883,Mars,Melee,overwhelming_blink,black_king_bar,refresher,soul_ring,bracer,phase_boots,0
+178,6574739883,Void Spirit,Melee,phase_boots,ultimate_scepter,black_king_bar,blink,kaya_and_sange,cyclone,0
+179,6574739883,Monkey King,Melee,black_king_bar,bfury,skadi,satanic,invis_sword,ultimate_scepter,0
+180,6575506610,Doom,Melee,shivas_guard,arcane_blink,black_king_bar,phase_boots,hand_of_midas,heavens_halberd,1
+181,6575506610,Winter Wyvern,Ranged,boots,blink,gem,aether_lens,glimmer_cape,wraith_pact,1
+182,6575506610,Kunkka,Melee,sheepstick,sphere,black_king_bar,phase_boots,silver_edge,assault,1
+183,6575506610,Chaos Knight,Melee,armlet,aegis,heart,bloodthorn,arcane_blink,power_treads,1
+184,6575506610,Death Prophet,Ranged,travel_boots,cheese,black_king_bar,aeon_disk,ward_sentry,gem,1
+185,6575506610,Pangolier,Melee,basher,maelstrom,sphere,arcane_boots,blink,diffusal_blade,0
+186,6575506610,Void Spirit,Melee,phase_boots,kaya,ghost,black_king_bar,sphere,ultimate_scepter,0
+187,6575506610,Grimstroke,Ranged,aether_lens,boots,ward_dispenser,,,,0
+188,6575506610,Io,Ranged,bracer,wraith_pact,magic_wand,bracer,bracer,,0
+189,6575506610,Bloodseeker,Melee,magic_wand,basher,sphere,phase_boots,mjollnir,black_king_bar,0
+190,6571280989,Grimstroke,Ranged,boots,magic_stick,,wind_lace,aether_lens,ward_sentry,1
+191,6571280989,Medusa,Ranged,skadi,dragon_lance,manta,power_treads,magic_wand,wind_lace,1
+192,6571280989,Void Spirit,Melee,magic_wand,kaya,bottle,null_talisman,ultimate_scepter,travel_boots,1
+193,6571280989,Beastmaster,Melee,quelling_blade,helm_of_the_overlord,black_king_bar,,magic_wand,boots,1
+194,6571280989,Weaver,Ranged,ancient_janggo,urn_of_shadows,magic_wand,ogre_axe,ward_sentry,orchid,1
+195,6571280989,Phoenix,Ranged,bracer,dust,tranquil_boots,spirit_vessel,black_king_bar,,0
+196,6571280989,Puck,Ranged,power_treads,blink,null_talisman,bottle,witch_blade,cyclone,0
+197,6571280989,Doom,Melee,tranquil_boots,blink,black_king_bar,vitality_booster,dust,magic_stick,0
+198,6571280989,Bloodseeker,Melee,sphere,slippers,magic_wand,phase_boots,maelstrom,black_king_bar,0
+199,6571280989,Crystal Maiden,Ranged,fluffy_hat,tranquil_boots,aether_lens,cloak,ward_dispenser,dust,0
+200,6571200692,Shadow Shaman,Ranged,blink,ogre_axe,magic_wand,gem,tranquil_boots,,0
+201,6571200692,Mars,Melee,phase_boots,soul_ring,blink,basher,refresher,black_king_bar,0
+202,6571200692,Skywrath Mage,Ranged,ward_dispenser,magic_wand,ultimate_scepter,null_talisman,blink,boots,0
+203,6571200692,Puck,Ranged,sphere,kaya_and_sange,black_king_bar,travel_boots,blink,witch_blade,0
+204,6571200692,Visage,Ranged,boots_of_bearing,magic_wand,ultimate_scepter,null_talisman,,assault,0
+205,6571200692,Razor,Ranged,power_treads,black_king_bar,refresher,sange_and_yasha,hand_of_midas,wraith_band,1
+206,6571200692,Winter Wyvern,Ranged,blink,magic_wand,aether_lens,smoke_of_deceit,boots,,1
+207,6571200692,Ember Spirit,Melee,travel_boots,maelstrom,sheepstick,ultimate_scepter,black_king_bar,magic_wand,1
+208,6571200692,Wraith King,Melee,blink,desolator,black_king_bar,phase_boots,armlet,assault,1
+209,6571200692,Nyx Assassin,Melee,boots,,magic_wand,force_staff,quelling_blade,,1
+210,6576116877,Phoenix,Ranged,aeon_disk,spirit_vessel,refresher,tranquil_boots,,platemail,1
+211,6576116877,Kunkka,Melee,silver_edge,phase_boots,assault,sheepstick,black_king_bar,magic_wand,1
+212,6576116877,Mars,Melee,black_king_bar,blink,wraith_pact,phase_boots,soul_ring,gem,1
+213,6576116877,Pugna,Ranged,magic_wand,tranquil_boots,glimmer_cape,force_staff,smoke_of_deceit,ward_dispenser,1
+214,6576116877,Nature's Prophet,Ranged,skadi,gungir,silver_edge,satanic,power_treads,black_king_bar,1
+215,6576116877,Enchantress,Ranged,force_staff,boots,wraith_pact,glimmer_cape,ward_sentry,magic_wand,0
+216,6576116877,Monkey King,Melee,bfury,power_treads,black_king_bar,greater_crit,basher,ultimate_scepter,0
+217,6576116877,Timbersaw,Melee,shivas_guard,wind_waker,kaya_and_sange,black_king_bar,hood_of_defiance,travel_boots,0
+218,6576116877,Tiny,Melee,phase_boots,blink,silver_edge,black_king_bar,echo_sabre,dust,0
+219,6576116877,Grimstroke,Ranged,ancient_janggo,tranquil_boots,force_staff,aether_lens,magic_wand,ward_sentry,0
+220,6570398588,Grimstroke,Ranged,quelling_blade,arcane_boots,magic_wand,ward_dispenser,infused_raindrop,,0
+221,6570398588,Troll Warlord,Ranged,sphere,phase_boots,,magic_wand,manta,bfury,0
+222,6570398588,Storm Spirit,Ranged,null_talisman,null_talisman,black_king_bar,null_talisman,null_talisman,witch_blade,0
+223,6570398588,Keeper of the Light,Ranged,,tranquil_boots,magic_wand,quelling_blade,force_staff,platemail,0
+224,6570398588,Underlord,Melee,power_treads,rod_of_atos,soul_ring,black_king_bar,bracer,bracer,0
+225,6570398588,Treant Protector,Melee,blink,tranquil_boots,magic_stick,force_staff,ward_sentry,smoke_of_deceit,1
+226,6570398588,Dragon Knight,Melee,blink,power_treads,magic_stick,bracer,bracer,black_king_bar,1
+227,6570398588,Visage,Ranged,boots_of_bearing,magic_wand,pipe,null_talisman,wraith_pact,,1
+228,6570398588,Hoodwink,Ranged,arcane_boots,force_staff,ward_sentry,magic_wand,glimmer_cape,clarity,1
+229,6570398588,Alchemist,Melee,phase_boots,radiance,assault,aegis,overwhelming_blink,black_king_bar,1
+230,6573568264,Brewmaster,Melee,bracer,tranquil_boots,ogre_axe,quelling_blade,soul_ring,staff_of_wizardry,0
+231,6573568264,Leshrac,Ranged,arcane_boots,null_talisman,magic_wand,hood_of_defiance,bottle,cyclone,0
+232,6573568264,Bane,Ranged,branches,boots,wind_lace,fluffy_hat,ward_dispenser,smoke_of_deceit,0
+233,6573568264,Mirana,Ranged,wraith_band,boots,vladmir,magic_stick,,smoke_of_deceit,0
+234,6573568264,Tiny,Melee,quelling_blade,magic_wand,invis_sword,power_treads,echo_sabre,gauntlets,0
+235,6573568264,Enchantress,Ranged,medallion_of_courage,boots,magic_wand,glimmer_cape,fluffy_hat,dust,1
+236,6573568264,Chaos Knight,Melee,armlet,blink,magic_wand,black_king_bar,echo_sabre,power_treads,1
+237,6573568264,Beastmaster,Melee,ancient_janggo,helm_of_the_overlord,boots,,quelling_blade,,1
+238,6573568264,Storm Spirit,Ranged,power_treads,null_talisman,black_king_bar,bottle,null_talisman,null_talisman,1
+239,6573568264,Grimstroke,Ranged,infused_raindrop,tranquil_boots,smoke_of_deceit,wind_lace,magic_stick,aether_lens,1
+240,6574848748,Keeper of the Light,Ranged,magic_wand,tranquil_boots,wraith_pact,ward_dispenser,,glimmer_cape,0
+241,6574848748,Rubick,Ranged,spirit_vessel,,magic_wand,smoke_of_deceit,arcane_boots,,0
+242,6574848748,Storm Spirit,Ranged,kaya_and_sange,null_talisman,null_talisman,ultimate_scepter,null_talisman,black_king_bar,0
+243,6574848748,Mars,Melee,blink,black_king_bar,magic_wand,soul_ring,desolator,phase_boots,0
+244,6574848748,Chaos Knight,Melee,black_king_bar,magic_wand,armlet,bloodthorn,power_treads,bracer,0
+245,6574848748,Timbersaw,Melee,lotus_orb,black_king_bar,hood_of_defiance,kaya_and_sange,cyclone,gem,1
+246,6574848748,Windranger,Ranged,blink,wraith_pact,,magic_wand,null_talisman,tranquil_boots,1
+247,6574848748,Puck,Ranged,travel_boots,blink,kaya_and_sange,witch_blade,aeon_disk,octarine_core,1
+248,6574848748,Morphling,Ranged,power_treads,skadi,satanic,manta,black_king_bar,magic_wand,1
+249,6574848748,Earthshaker,Melee,tranquil_boots,blink,ward_sentry,glimmer_cape,ring_of_basilius,aeon_disk,1
+250,6580245004,Shadow Shaman,Ranged,blink,force_staff,magic_wand,boots,aether_lens,ward_dispenser,0
+251,6580245004,Lina,Ranged,silver_edge,satanic,travel_boots,sphere,black_king_bar,wind_lace,0
+252,6580245004,Underlord,Melee,rod_of_atos,black_king_bar,wraith_pact,power_treads,soul_ring,dust,0
+253,6580245004,Elder Titan,Melee,magic_wand,tranquil_boots,ward_dispenser,cloak,ghost,ancient_janggo,0
+254,6580245004,Drow Ranger,Ranged,magic_wand,sphere,hurricane_pike,black_king_bar,power_treads,blink,0
+255,6580245004,Grimstroke,Ranged,travel_boots,force_staff,ghost,aether_lens,wind_lace,ward_dispenser,1
+256,6580245004,Medusa,Ranged,aegis,swift_blink,manta,power_treads,silver_edge,skadi,1
+257,6580245004,Rubick,Ranged,blink,ultimate_scepter,octarine_core,wind_lace,travel_boots,,1
+258,6580245004,Batrider,Ranged,blink,octarine_core,black_king_bar,force_staff,gem,travel_boots,1
+259,6580245004,Doom,Melee,heavens_halberd,blink,aether_lens,tranquil_boots,dust,black_king_bar,1
+260,6571306390,Underlord,Melee,swift_blink,rod_of_atos,gem,power_treads,black_king_bar,basher,1
+261,6571306390,Windranger,Ranged,blink,black_king_bar,null_talisman,magic_wand,maelstrom,tranquil_boots,1
+262,6571306390,Puck,Ranged,hurricane_pike,blink,revenants_brooch,gungir,kaya_and_sange,sphere,1
+263,6571306390,Razor,Ranged,power_treads,skadi,refresher,sange_and_yasha,black_king_bar,assault,1
+264,6571306390,Io,Ranged,ward_dispenser,mekansm,cloak,cyclone,wraith_pact,magic_wand,1
+265,6571306390,Shadow Shaman,Ranged,blink,sobi_mask,ward_dispenser,black_king_bar,tranquil_boots,magic_wand,0
+266,6571306390,Mars,Melee,phase_boots,lotus_orb,blink,magic_wand,soul_ring,black_king_bar,0
+267,6571306390,Ancient Apparition,Ranged,magic_wand,,boots,fluffy_hat,glimmer_cape,blight_stone,0
+268,6571306390,Pangolier,Melee,orb_of_corrosion,aeon_disk,diffusal_blade,power_treads,blink,basher,0
+269,6571306390,Nature's Prophet,Ranged,power_treads,black_king_bar,sphere,greater_crit,silver_edge,maelstrom,0
+270,6575685774,Visage,Ranged,gem,magic_wand,wraith_pact,phase_boots,ancient_janggo,ultimate_scepter,1
+271,6575685774,Doom,Melee,tranquil_boots,blink,magic_wand,black_king_bar,force_staff,ultimate_scepter,1
+272,6575685774,Death Prophet,Ranged,cheese,black_king_bar,kaya_and_sange,travel_boots,null_talisman,shivas_guard,1
+273,6575685774,Luna,Ranged,satanic,manta,skadi,silver_edge,black_king_bar,aegis,1
+274,6575685774,Bane,Ranged,boots,magic_stick,shadow_amulet,blink,ward_dispenser,fluffy_hat,1
+275,6575685774,Mars,Melee,,blink,refresher,phase_boots,soul_ring,black_king_bar,0
+276,6575685774,Storm Spirit,Ranged,null_talisman,sphere,null_talisman,black_king_bar,null_talisman,null_talisman,0
+277,6575685774,Pugna,Ranged,vladmir,tranquil_boots,ward_dispenser,enchanted_mango,,,0
+278,6575685774,Winter Wyvern,Ranged,boots,aether_lens,blink,solar_crest,,magic_stick,0
+279,6575685774,Phantom Assassin,Melee,bfury,ultimate_orb,magic_wand,power_treads,sphere,black_king_bar,0
+280,6580504708,Doom,Melee,blink,magic_stick,black_king_bar,tranquil_boots,vladmir,point_booster,1
+281,6580504708,Pangolier,Melee,basher,power_treads,bottle,diffusal_blade,black_king_bar,orb_of_corrosion,1
+282,6580504708,Enigma,Ranged,black_king_bar,blink,infused_raindrop,arcane_boots,spirit_vessel,wind_lace,1
+283,6580504708,Enchantress,Ranged,magic_wand,power_treads,ward_dispenser,force_staff,dragon_lance,ancient_janggo,1
+284,6580504708,Templar Assassin,Ranged,dragon_lance,power_treads,desolator,black_king_bar,silver_edge,blink,1
+285,6580504708,Io,Ranged,fluffy_hat,soul_ring,magic_stick,mekansm,,ward_sentry,0
+286,6580504708,Gyrocopter,Ranged,magic_wand,lifesteal,black_king_bar,power_treads,lesser_crit,ultimate_scepter,0
+287,6580504708,Mars,Melee,phase_boots,blink,magic_wand,soul_ring,orb_of_corrosion,black_king_bar,0
+288,6580504708,Viper,Ranged,urn_of_shadows,dragon_lance,power_treads,black_king_bar,magic_wand,wraith_band,0
+289,6580504708,Monkey King,Melee,phase_boots,black_king_bar,magic_wand,wraith_band,orb_of_corrosion,,0
+290,6575811382,Rubick,Ranged,ultimate_scepter,ward_dispenser,force_staff,aether_lens,,,0
+291,6575811382,Brewmaster,Melee,boots,aeon_disk,urn_of_shadows,ultimate_scepter,vladmir,refresher,0
+292,6575811382,Kunkka,Melee,black_king_bar,heavens_halberd,refresher,radiance,ultimate_scepter,assault,0
+293,6575811382,Lich,Ranged,force_staff,boots_of_bearing,ward_dispenser,glimmer_cape,,magic_wand,0
+294,6575811382,Chaos Knight,Melee,blink,bloodthorn,black_king_bar,nullifier,power_treads,abyssal_blade,0
+295,6575811382,Phoenix,Ranged,aeon_disk,travel_boots,shivas_guard,black_king_bar,refresher,,1
+296,6575811382,Wraith King,Melee,nullifier,overwhelming_blink,black_king_bar,refresher,bloodthorn,desolator,1
+297,6575811382,Mars,Melee,phase_boots,blink,nullifier,refresher,assault,black_king_bar,1
+298,6575811382,Beastmaster,Melee,blink,helm_of_the_overlord,black_king_bar,travel_boots,refresher,gem,1
+299,6575811382,Snapfire,Ranged,blink,force_staff,ultimate_scepter,tranquil_boots,dust,refresher,1
+300,6572659357,Bane,Ranged,force_staff,boots,magic_wand,ghost,ward_sentry,flask,0
+301,6572659357,Ursa,Melee,lifesteal,blink,black_king_bar,phase_boots,blitz_knuckles,bfury,0
+302,6572659357,Puck,Ranged,blink,,spirit_vessel,null_talisman,cyclone,travel_boots,0
+303,6572659357,Grimstroke,Ranged,lotus_orb,magic_stick,boots,ward_observer,,,0
+304,6572659357,Chaos Knight,Melee,power_treads,armlet,blink,magic_wand,ogre_axe,bracer,0
+305,6572659357,Phoenix,Ranged,tranquil_boots,urn_of_shadows,cyclone,magic_wand,cloak,ward_dispenser,1
+306,6572659357,Naga Siren,Melee,heart,ultimate_scepter,manta,power_treads,orchid,gem,1
+307,6572659357,Pangolier,Melee,blink,power_treads,diffusal_blade,sphere,orb_of_corrosion,magic_wand,1
+308,6572659357,Lycan,Melee,wraith_pact,quelling_blade,black_king_bar,,branches,assault,1
+309,6572659357,Snapfire,Ranged,boots_of_bearing,blink,magic_wand,,,clarity,1
+310,6572937926,Bane,Ranged,magic_wand,,blink,black_king_bar,ring_of_protection,tranquil_boots,0
+311,6572937926,Mars,Melee,phase_boots,ward_observer,blink,soul_ring,refresher,black_king_bar,0
+312,6572937926,Mirana,Ranged,urn_of_shadows,ward_dispenser,,magic_wand,wraith_pact,boots,0
+313,6572937926,Leshrac,Ranged,platemail,kaya,cyclone,travel_boots,black_king_bar,aeon_disk,0
+314,6572937926,Nature's Prophet,Ranged,power_treads,nullifier,magic_wand,maelstrom,black_king_bar,silver_edge,0
+315,6572937926,Snapfire,Ranged,magic_stick,ultimate_scepter,force_staff,dust,,arcane_boots,1
+316,6572937926,Tidehunter,Melee,phase_boots,black_king_bar,blink,ultimate_scepter,gem,pipe,1
+317,6572937926,Kunkka,Melee,black_king_bar,sheepstick,phase_boots,cheese,assault,heavens_halberd,1
+318,6572937926,Pugna,Ranged,force_staff,,magic_wand,,tranquil_boots,aeon_disk,1
+319,6572937926,Templar Assassin,Ranged,blink,desolator,aegis,hurricane_pike,sphere,ultimate_scepter,1
+320,6580016442,Mirana,Ranged,magic_wand,spirit_vessel,veil_of_discord,ward_observer,,boots,0
+321,6580016442,Sand King,Melee,boots,soul_ring,blink,staff_of_wizardry,bracer,magic_wand,0
+322,6580016442,Storm Spirit,Ranged,null_talisman,black_king_bar,null_talisman,null_talisman,null_talisman,null_talisman,0
+323,6580016442,Pugna,Ranged,vladmir,ward_dispenser,branches,magic_wand,tranquil_boots,dust,0
+324,6580016442,Terrorblade,Melee,skadi,manta,black_king_bar,,power_treads,dragon_lance,0
+325,6580016442,Viper,Ranged,power_treads,sphere,magic_wand,dragon_lance,black_king_bar,wraith_band,1
+326,6580016442,Kunkka,Melee,phase_boots,blink,heavens_halberd,bracer,black_king_bar,bracer,1
+327,6580016442,Monkey King,Melee,magic_wand,pipe,,wraith_pact,fluffy_hat,circlet,1
+328,6580016442,Faceless Void,Melee,power_treads,gem,sphere,magic_wand,mjollnir,skadi,1
+329,6580016442,Nyx Assassin,Melee,tranquil_boots,ward_observer,dust,force_staff,magic_wand,smoke_of_deceit,1
+330,6571738707,Shadow Shaman,Ranged,blink,magic_wand,dust,tranquil_boots,,,0
+331,6571738707,Pangolier,Melee,diffusal_blade,orb_of_corrosion,arcane_boots,basher,black_king_bar,magic_wand,0
+332,6571738707,Enigma,Ranged,black_king_bar,blink,dust,arcane_boots,hand_of_midas,wind_lace,0
+333,6571738707,Omniknight,Melee,magic_wand,boots,glimmer_cape,smoke_of_deceit,,ward_dispenser,0
+334,6571738707,Spectre,Melee,magic_wand,ultimate_orb,ultimate_scepter,ring_of_basilius,power_treads,radiance,0
+335,6571738707,Mirana,Ranged,magic_wand,mekansm,cyclone,urn_of_shadows,,arcane_boots,1
+336,6571738707,Sand King,Melee,travel_boots,black_king_bar,blink,cyclone,bracer,soul_ring,1
+337,6571738707,Kunkka,Melee,black_king_bar,assault,phase_boots,cheese,heavens_halberd,gem,1
+338,6571738707,Abaddon,Melee,dust,ward_dispenser,holy_locket,smoke_of_deceit,tranquil_boots,blink,1
+339,6571738707,Alchemist,Melee,blink,abyssal_blade,black_king_bar,silver_edge,phase_boots,radiance,1
+340,6580376211,Doom,Melee,arcane_blink,wraith_pact,black_king_bar,tranquil_boots,magic_wand,dust,1
+341,6580376211,Puck,Ranged,blink,witch_blade,desolator,ethereal_blade,octarine_core,sphere,1
+342,6580376211,Night Stalker,Melee,black_king_bar,blink,nullifier,phase_boots,gem,,1
+343,6580376211,Enchantress,Ranged,magic_wand,power_treads,glimmer_cape,hurricane_pike,witch_blade,ancient_janggo,1
+344,6580376211,Templar Assassin,Ranged,monkey_king_bar,desolator,hurricane_pike,black_king_bar,silver_edge,swift_blink,1
+345,6580376211,Grimstroke,Ranged,boots,bracer,vladmir,bracer,bracer,ward_dispenser,0
+346,6580376211,Medusa,Ranged,nullifier,satanic,manta,power_treads,orchid,skadi,0
+347,6580376211,Pangolier,Melee,power_treads,diffusal_blade,heavens_halberd,bottle,orb_of_corrosion,basher,0
+348,6580376211,Necrophos,Ranged,urn_of_shadows,ancient_janggo,black_king_bar,lotus_orb,ghost,travel_boots,0
+349,6580376211,Shadow Shaman,Ranged,shadow_amulet,blink,magic_wand,tranquil_boots,ward_sentry,ghost,0
+350,6575974930,Snapfire,Ranged,boots_of_bearing,force_staff,gem,wind_lace,,ward_observer,1
+351,6575974930,Luna,Ranged,black_king_bar,aegis,manta,power_treads,satanic,butterfly,1
+352,6575974930,Pangolier,Melee,blink,diffusal_blade,power_treads,dust,aeon_disk,black_king_bar,1
+353,6575974930,Lycan,Melee,helm_of_the_overlord,cyclone,black_king_bar,assault,buckler,,1
+354,6575974930,Monkey King,Melee,phase_boots,black_king_bar,magic_wand,desolator,ultimate_orb,dust,1
+355,6575974930,Mirana,Ranged,mekansm,crimson_guard,force_staff,wraith_pact,magic_wand,arcane_boots,0
+356,6575974930,Sand King,Melee,tranquil_boots,shivas_guard,blink,cyclone,kaya,soul_ring,0
+357,6575974930,Tiny,Melee,phase_boots,black_king_bar,blink,moon_shard,silver_edge,echo_sabre,0
+358,6575974930,Bane,Ranged,ghost,glimmer_cape,force_staff,magic_wand,,tranquil_boots,0
+359,6575974930,Magnus,Melee,arcane_blink,greater_crit,black_king_bar,satanic,assault,echo_sabre,0
+360,6575589562,Mars,Melee,black_king_bar,blink,soul_ring,phase_boots,gem,bracer,0
+361,6575589562,Snapfire,Ranged,boots,blink,quelling_blade,dust,magic_wand,wraith_pact,0
+362,6575589562,Sniper,Ranged,mask_of_madness,hurricane_pike,black_king_bar,power_treads,greater_crit,sphere,0
+363,6575589562,Chaos Knight,Melee,armlet,blink,invis_sword,black_king_bar,power_treads,echo_sabre,0
+364,6575589562,Io,Ranged,,holy_locket,enchanted_mango,ogre_axe,ward_dispenser,ring_of_basilius,0
+365,6575589562,Doom,Melee,shivas_guard,black_king_bar,heavens_halberd,phase_boots,blink,refresher,1
+366,6575589562,Tiny,Melee,phase_boots,blink,moon_shard,silver_edge,black_king_bar,echo_sabre,1
+367,6575589562,Bane,Ranged,ghost,tranquil_boots,blink,aether_lens,dust,ward_dispenser,1
+368,6575589562,Phoenix,Ranged,urn_of_shadows,mekansm,wraith_pact,tranquil_boots,pipe,gem,1
+369,6575589562,Monkey King,Melee,aegis,arcane_blink,gungir,skadi,echo_sabre,black_king_bar,1
+370,6574188575,Batrider,Ranged,boots_of_bearing,,black_king_bar,bottle,refresher,aether_lens,1
+371,6574188575,Snapfire,Ranged,maelstrom,travel_boots,black_king_bar,silver_edge,magic_wand,,1
+372,6574188575,Troll Warlord,Ranged,abyssal_blade,bfury,skadi,black_king_bar,aegis,ultimate_scepter,1
+373,6574188575,Tiny,Melee,arcane_boots,smoke_of_deceit,force_staff,quelling_blade,blink,magic_wand,1
+374,6574188575,Bane,Ranged,tranquil_boots,wraith_pact,,magic_wand,wind_lace,,1
+375,6574188575,Visage,Ranged,wraith_pact,boots,magic_wand,ward_dispenser,cloak,smoke_of_deceit,0
+376,6574188575,Phantom Lancer,Melee,diffusal_blade,power_treads,magic_wand,heart,manta,claymore,0
+377,6574188575,Pangolier,Melee,diffusal_blade,magic_wand,basher,power_treads,black_king_bar,orb_of_corrosion,0
+378,6574188575,Monkey King,Melee,cyclone,magic_wand,dust,orb_of_corrosion,ward_dispenser,,0
+379,6574188575,Mars,Melee,black_king_bar,blink,soul_ring,magic_wand,boots,bracer,0
+380,6580732041,Razor,Ranged,power_treads,sange_and_yasha,refresher,butterfly,black_king_bar,falcon_blade,1
+381,6580732041,Windranger,Ranged,magic_wand,wraith_pact,smoke_of_deceit,blink,null_talisman,tranquil_boots,1
+382,6580732041,Void Spirit,Melee,bottle,ultimate_scepter,magic_wand,power_treads,null_talisman,kaya_and_sange,1
+383,6580732041,Wraith King,Melee,blink,desolator,black_king_bar,phase_boots,armlet,assault,1
+384,6580732041,Clockwerk,Melee,tranquil_boots,ward_sentry,,magic_wand,black_king_bar,clarity,1
+385,6580732041,Enchantress,Ranged,force_staff,boots,magic_wand,solar_crest,vladmir,ward_dispenser,0
+386,6580732041,Anti-Mage,Melee,bfury,power_treads,manta,skadi,wraith_band,branches,0
+387,6580732041,Mars,Melee,soul_ring,blink,phase_boots,black_king_bar,bracer,bracer,0
+388,6580732041,Tiny,Melee,phase_boots,blink,lesser_crit,black_king_bar,echo_sabre,magic_wand,0
+389,6580732041,Grimstroke,Ranged,tranquil_boots,wind_lace,force_staff,aether_lens,branches,ward_dispenser,0
+390,6574482766,Winter Wyvern,Ranged,glimmer_cape,blink,tranquil_boots,ward_dispenser,ring_of_basilius,magic_wand,1
+391,6574482766,Mars,Melee,phase_boots,lotus_orb,blink,travel_boots,soul_ring,black_king_bar,1
+392,6574482766,Skywrath Mage,Ranged,sheepstick,magic_wand,aether_lens,boots,blink,null_talisman,1
+393,6574482766,Windranger,Ranged,greater_crit,sphere,black_king_bar,bottle,blink,gungir,1
+394,6574482766,Nature's Prophet,Ranged,blink,black_king_bar,skadi,sphere,desolator,silver_edge,1
+395,6574482766,Io,Ranged,mekansm,,ring_of_basilius,holy_locket,dust,,0
+396,6574482766,Sand King,Melee,blink,phase_boots,heavens_halberd,black_king_bar,dust,quelling_blade,0
+397,6574482766,Batrider,Ranged,travel_boots,black_king_bar,octarine_core,blink,force_staff,bottle,0
+398,6574482766,Snapfire,Ranged,arcane_boots,ethereal_blade,ward_sentry,blink,force_staff,ultimate_scepter,0
+399,6574482766,Razor,Ranged,blink,black_king_bar,assault,power_treads,refresher,sphere,0
+400,6573503063,Enchantress,Ranged,force_staff,boots,solar_crest,glimmer_cape,magic_wand,gem,1
+401,6573503063,Tiny,Melee,blink,power_treads,black_king_bar,silver_edge,lifesteal,moon_shard,1
+402,6573503063,Lycan,Melee,assault,wraith_pact,power_treads,branches,quelling_blade,ultimate_scepter,1
+403,6573503063,Storm Spirit,Ranged,power_treads,witch_blade,black_king_bar,null_talisman,ultimate_scepter,null_talisman,1
+404,6573503063,Bane,Ranged,ancient_janggo,aether_lens,fluffy_hat,tranquil_boots,magic_stick,ward_sentry,1
+405,6573503063,Phoenix,Ranged,bracer,tranquil_boots,dust,heavens_halberd,spirit_vessel,,0
+406,6573503063,Lina,Ranged,travel_boots,lesser_crit,bottle,black_king_bar,shivas_guard,sphere,0
+407,6573503063,Pugna,Ranged,vladmir,tranquil_boots,dust,ward_dispenser,,,0
+408,6573503063,Bristleback,Melee,ultimate_scepter,mask_of_madness,soul_ring,power_treads,vanguard,heavens_halberd,0
+409,6573503063,Shadow Shaman,Ranged,magic_stick,branches,blink,tranquil_boots,,branches,0
+410,6579091075,Enchantress,Ranged,wraith_pact,boots,magic_wand,cloak,gem,blight_stone,1
+411,6579091075,Chaos Knight,Melee,blink,armlet,black_king_bar,silver_edge,echo_sabre,power_treads,1
+412,6579091075,Legion Commander,Melee,blade_mail,bracer,blink,black_king_bar,bracer,power_treads,1
+413,6579091075,Ember Spirit,Melee,phase_boots,black_king_bar,sphere,orb_of_corrosion,maelstrom,ultimate_scepter,1
+414,6579091075,Grimstroke,Ranged,ancient_janggo,tranquil_boots,fluffy_hat,aether_lens,magic_stick,ward_dispenser,1
+415,6579091075,Batrider,Ranged,boots,ancient_janggo,black_king_bar,magic_wand,aether_lens,null_talisman,0
+416,6579091075,Pugna,Ranged,point_booster,ward_sentry,ring_of_basilius,magic_wand,tranquil_boots,buckler,0
+417,6579091075,Bloodseeker,Melee,ultimate_orb,phase_boots,boots_of_elves,black_king_bar,magic_wand,maelstrom,0
+418,6579091075,Spirit Breaker,Melee,phase_boots,magic_wand,,wind_lace,bracer,bracer,0
+419,6579091075,Bristleback,Melee,bottle,heavens_halberd,ultimate_scepter,magic_stick,boots,vanguard,0
+420,6579931950,Razor,Ranged,power_treads,reaver,wraith_band,sange_and_yasha,black_king_bar,falcon_blade,1
+421,6579931950,Windranger,Ranged,blink,magic_wand,null_talisman,pers,tranquil_boots,ward_sentry,1
+422,6579931950,Void Spirit,Melee,phase_boots,ultimate_scepter,magic_wand,void_stone,null_talisman,witch_blade,1
+423,6579931950,Chaos Knight,Melee,blink,bracer,black_king_bar,power_treads,armlet,invis_sword,1
+424,6579931950,Phoenix,Ranged,tranquil_boots,magic_stick,ward_sentry,ultimate_orb,wraith_pact,,1
+425,6579931950,Tusk,Melee,magic_wand,,blink,,,boots,0
+426,6579931950,Snapfire,Ranged,power_treads,soul_ring,blink,ogre_axe,bracer,magic_wand,0
+427,6579931950,Mars,Melee,black_king_bar,soul_ring,blink,blades_of_attack,bottle,boots,0
+428,6579931950,Pugna,Ranged,tranquil_boots,smoke_of_deceit,magic_wand,ward_dispenser,buckler,fluffy_hat,0
+429,6579931950,Faceless Void,Melee,ogre_axe,orb_of_corrosion,mithril_hammer,mjollnir,power_treads,magic_wand,0
+430,6574385083,Disruptor,Ranged,dust,magic_wand,veil_of_discord,ward_dispenser,tranquil_boots,flask,0
+431,6574385083,Mars,Melee,phase_boots,clarity,blink,magic_wand,soul_ring,black_king_bar,0
+432,6574385083,Grimstroke,Ranged,magic_wand,,,boots,ward_sentry,fluffy_hat,0
+433,6574385083,Puck,Ranged,null_talisman,witch_blade,magic_wand,travel_boots,blink,bottle,0
+434,6574385083,Necrophos,Ranged,travel_boots,meteor_hammer,magic_wand,,hood_of_defiance,black_king_bar,0
+435,6574385083,Pugna,Ranged,aether_lens,tranquil_boots,infused_raindrop,,magic_wand,ward_dispenser,1
+436,6574385083,Batrider,Ranged,ancient_janggo,black_king_bar,boots,magic_wand,null_talisman,aether_lens,1
+437,6574385083,Storm Spirit,Ranged,null_talisman,black_king_bar,aegis,null_talisman,null_talisman,null_talisman,1
+438,6574385083,Mirana,Ranged,boots,cyclone,fluffy_hat,magic_wand,bracer,infused_raindrop,1
+439,6574385083,Lone Druid,Ranged,,,magic_wand,boots,,,1
+440,6571305244,Chaos Knight,Melee,sange,power_treads,armlet,magic_wand,black_king_bar,orb_of_venom,0
+441,6571305244,Lina,Ranged,black_king_bar,invis_sword,platemail,soul_ring,null_talisman,travel_boots,0
+442,6571305244,Mars,Melee,soul_ring,blink,phase_boots,black_king_bar,magic_wand,bracer,0
+443,6571305244,Shadow Demon,Ranged,wind_lace,,enchanted_mango,boots,ward_dispenser,aether_lens,0
+444,6571305244,Dark Willow,Ranged,blink,magic_wand,dust,tranquil_boots,,,0
+445,6571305244,Batrider,Ranged,boots_of_bearing,blink,black_king_bar,magic_wand,null_talisman,aether_lens,1
+446,6571305244,Snapfire,Ranged,blink,force_staff,ward_sentry,magic_wand,wind_lace,boots,1
+447,6571305244,Bloodseeker,Melee,sphere,phase_boots,black_king_bar,basher,vitality_booster,mjollnir,1
+448,6571305244,Tusk,Melee,force_staff,ward_sentry,magic_wand,tranquil_boots,blink,infused_raindrop,1
+449,6571305244,Templar Assassin,Ranged,magic_wand,power_treads,blink,desolator,greater_crit,black_king_bar,1
+450,6571843720,Snapfire,Ranged,cyclone,magic_wand,blink,dust,point_booster,arcane_boots,1
+451,6571843720,Timbersaw,Melee,arcane_boots,hood_of_defiance,blink,black_king_bar,kaya_and_sange,ultimate_orb,1
+452,6571843720,Mars,Melee,black_king_bar,phase_boots,blink,soul_ring,bottle,aeon_disk,1
+453,6571843720,Viper,Ranged,enchanted_mango,boots_of_bearing,dust,magic_wand,aeon_disk,gem,1
+454,6571843720,Kunkka,Melee,armlet,satanic,black_king_bar,silver_edge,phase_boots,basher,1
+455,6571843720,Abaddon,Melee,ultimate_scepter,tranquil_boots,wind_lace,magic_wand,flask,ward_sentry,0
+456,6571843720,Enigma,Ranged,blink,arcane_boots,spirit_vessel,null_talisman,black_king_bar,,0
+457,6571843720,Dragon Knight,Melee,power_treads,black_king_bar,bracer,blink,soul_ring,bracer,0
+458,6571843720,Skywrath Mage,Ranged,arcane_boots,ward_sentry,null_talisman,blink,fluffy_hat,null_talisman,0
+459,6571843720,Clinkz,Ranged,dragon_lance,black_king_bar,magic_wand,power_treads,maelstrom,greater_crit,0
+460,6571582160,Enchantress,Ranged,force_staff,boots,medallion_of_courage,glimmer_cape,magic_stick,gem,1
+461,6571582160,Monkey King,Melee,bfury,invis_sword,black_king_bar,power_treads,ultimate_scepter,wraith_band,1
+462,6571582160,Mars,Melee,soul_ring,overwhelming_blink,phase_boots,black_king_bar,bracer,bracer,1
+463,6571582160,Ember Spirit,Melee,phase_boots,black_king_bar,bottle,maelstrom,orb_of_corrosion,desolator,1
+464,6571582160,Bane,Ranged,dust,arcane_boots,ghost,glimmer_cape,magic_wand,ward_sentry,1
+465,6571582160,Tidehunter,Melee,black_king_bar,blink,bottle,phase_boots,bracer,soul_ring,0
+466,6571582160,Hoodwink,Ranged,boots,magic_wand,point_booster,dust,aether_lens,bracer,0
+467,6571582160,Storm Spirit,Ranged,kaya,black_king_bar,magic_wand,power_treads,null_talisman,null_talisman,0
+468,6571582160,Chaos Knight,Melee,armlet,power_treads,reaver,black_king_bar,echo_sabre,magic_wand,0
+469,6571582160,Weaver,Ranged,fluffy_hat,magic_wand,spirit_vessel,infused_raindrop,ward_dispenser,dust,0
+470,6571732248,Shadow Demon,Ranged,quelling_blade,boots,magic_wand,gem,ward_sentry,aether_lens,1
+471,6571732248,Luna,Ranged,mask_of_madness,power_treads,black_king_bar,dragon_lance,greater_crit,magic_wand,1
+472,6571732248,Kunkka,Melee,blink,assault,black_king_bar,phase_boots,bracer,bracer,1
+473,6571732248,Mirana,Ranged,spirit_vessel,ward_dispenser,,force_staff,magic_wand,tranquil_boots,1
+474,6571732248,Sand King,Melee,travel_boots,blink,lotus_orb,magic_wand,bracer,bracer,1
+475,6571732248,Lich,Ranged,ward_observer,tranquil_boots,,,magic_wand,,0
+476,6571732248,Dragon Knight,Melee,blink,power_treads,bracer,magic_wand,soul_ring,quelling_blade,0
+477,6571732248,Keeper of the Light,Ranged,travel_boots,black_king_bar,spirit_vessel,kaya,branches,null_talisman,0
+478,6571732248,Hoodwink,Ranged,tranquil_boots,veil_of_discord,cloak,magic_wand,dust,fluffy_hat,0
+479,6571732248,Lone Druid,Ranged,,,,boots,,,0
+480,6571843204,Bane,Ranged,ward_dispenser,boots,magic_wand,blink,dust,aether_lens,0
+481,6571843204,Anti-Mage,Melee,black_king_bar,assault,abyssal_blade,skadi,manta,bfury,0
+482,6571843204,Storm Spirit,Ranged,null_talisman,null_talisman,null_talisman,witch_blade,black_king_bar,sheepstick,0
+483,6571843204,Snapfire,Ranged,aether_lens,gem,tranquil_boots,blink,force_staff,magic_wand,0
+484,6571843204,Bloodseeker,Melee,phase_boots,rod_of_atos,black_king_bar,nullifier,basher,,0
+485,6571843204,Io,Ranged,lotus_orb,mekansm,soul_ring,ghost,aeon_disk,glimmer_cape,1
+486,6571843204,Leshrac,Ranged,sheepstick,bloodstone,sphere,silver_edge,black_king_bar,refresher,1
+487,6571843204,Night Stalker,Melee,black_king_bar,blink,basher,phase_boots,gem,sphere,1
+488,6571843204,Pugna,Ranged,magic_wand,tranquil_boots,glimmer_cape,force_staff,ward_dispenser,vladmir,1
+489,6571843204,Dragon Knight,Melee,ultimate_scepter,assault,silver_edge,black_king_bar,power_treads,swift_blink,1
+490,6580625364,Enchantress,Ranged,fluffy_hat,boots,magic_wand,wraith_pact,blight_stone,ward_observer,0
+491,6580625364,Monkey King,Melee,bfury,power_treads,black_king_bar,ultimate_scepter,magic_wand,branches,0
+492,6580625364,Chaos Knight,Melee,armlet,bracer,blink,black_king_bar,echo_sabre,power_treads,0
+493,6580625364,Keeper of the Light,Ranged,travel_boots,infused_raindrop,spirit_vessel,octarine_core,wind_lace,sheepstick,0
+494,6580625364,Bane,Ranged,tranquil_boots,aether_lens,enchanted_mango,smoke_of_deceit,fluffy_hat,ward_dispenser,0
+495,6580625364,Timbersaw,Melee,boots,black_king_bar,shivas_guard,kaya_and_sange,lotus_orb,soul_ring,1
+496,6580625364,Windranger,Ranged,blink,magic_wand,tranquil_boots,gem,pers,null_talisman,1
+497,6580625364,Tiny,Melee,phase_boots,blink,magic_wand,ultimate_scepter,black_king_bar,echo_sabre,1
+498,6580625364,Troll Warlord,Ranged,phase_boots,aegis,sphere,manta,satanic,maelstrom,1
+499,6580625364,Doom,Melee,tranquil_boots,blink,wraith_pact,magic_wand,quelling_blade,ogre_axe,1
+500,6578909443,Ember Spirit,Melee,black_king_bar,blink,wraith_pact,phase_boots,maelstrom,,0
+501,6578909443,Hoodwink,Ranged,boots,blink,magic_wand,aether_lens,ultimate_scepter,ethereal_blade,0
+502,6578909443,Keeper of the Light,Ranged,ethereal_blade,dagon_5,black_king_bar,sheepstick,octarine_core,aeon_disk,0
+503,6578909443,Chaos Knight,Melee,armlet,arcane_blink,skadi,black_king_bar,silver_edge,heart,0
+504,6578909443,Treant Protector,Melee,boots,force_staff,refresher,blink,ward_sentry,enchanted_mango,0
+505,6578909443,Tidehunter,Melee,blink,wraith_pact,refresher,aeon_disk,wind_waker,gem,1
+506,6578909443,Jakiro,Ranged,force_staff,sheepstick,magic_wand,black_king_bar,tranquil_boots,octarine_core,1
+507,6578909443,Pangolier,Melee,abyssal_blade,blink,diffusal_blade,gungir,octarine_core,travel_boots,1
+508,6578909443,Morphling,Ranged,aegis,greater_crit,black_king_bar,manta,satanic,skadi,1
+509,6578909443,Enigma,Ranged,travel_boots,blink,black_king_bar,refresher,aeon_disk,aether_lens,1
+510,6572822253,Rubick,Ranged,enchanted_mango,boots,magic_wand,blink,aether_lens,ward_dispenser,0
+511,6572822253,Luna,Ranged,satanic,boots,black_king_bar,sphere,manta,greater_crit,0
+512,6572822253,Puck,Ranged,blink,null_talisman,aeon_disk,witch_blade,null_talisman,travel_boots,0
+513,6572822253,Pugna,Ranged,wraith_pact,,tranquil_boots,,,magic_wand,0
+514,6572822253,Dragon Knight,Melee,power_treads,blink,soul_ring,black_king_bar,lotus_orb,bracer,0
+515,6572822253,Bane,Ranged,magic_stick,force_staff,glimmer_cape,boots,wind_lace,aether_lens,1
+516,6572822253,Chaos Knight,Melee,armlet,blink,black_king_bar,power_treads,nullifier,echo_sabre,1
+517,6572822253,Keeper of the Light,Ranged,orchid,spirit_vessel,ultimate_scepter,octarine_core,travel_boots,black_king_bar,1
+518,6572822253,Beastmaster,Melee,boots,helm_of_the_overlord,black_king_bar,refresher,gem,ancient_janggo,1
+519,6572822253,Doom,Melee,platemail,blink,magic_wand,vladmir,tranquil_boots,black_king_bar,1
+520,6576223979,Enchantress,Ranged,force_staff,power_treads,magic_wand,glimmer_cape,ogre_axe,ward_dispenser,0
+521,6576223979,Monkey King,Melee,bfury,power_treads,black_king_bar,basher,greater_crit,ultimate_scepter,0
+522,6576223979,Beastmaster,Melee,black_king_bar,helm_of_the_overlord,ultimate_scepter,boots_of_bearing,,,0
+523,6576223979,Puck,Ranged,travel_boots,blink,witch_blade,aeon_disk,octarine_core,kaya_and_sange,0
+524,6576223979,Shadow Shaman,Ranged,blink,tranquil_boots,branches,black_king_bar,magic_stick,ward_observer,0
+525,6576223979,Phoenix,Ranged,magic_wand,spirit_vessel,refresher,tranquil_boots,dust,vitality_booster,1
+526,6576223979,Pangolier,Melee,blink,diffusal_blade,abyssal_blade,sphere,octarine_core,aegis,1
+527,6576223979,Mars,Melee,wraith_pact,blink,sheepstick,phase_boots,cheese,soul_ring,1
+528,6576223979,Abaddon,Melee,magic_wand,ward_sentry,glimmer_cape,,gem,boots_of_bearing,1
+529,6576223979,Nature's Prophet,Ranged,butterfly,bloodthorn,silver_edge,assault,satanic,black_king_bar,1
+530,6571204733,Pangolier,Melee,orb_of_corrosion,diffusal_blade,wraith_band,arcane_boots,magic_wand,,0
+531,6571204733,Viper,Ranged,power_treads,dragon_lance,magic_wand,black_king_bar,bottle,,0
+532,6571204733,Keeper of the Light,Ranged,headdress,tranquil_boots,force_staff,infused_raindrop,ward_sentry,,0
+533,6571204733,Pugna,Ranged,aether_lens,cloak,circlet,enchanted_mango,tranquil_boots,mantle,0
+534,6571204733,Bristleback,Melee,ultimate_scepter,vanguard,magic_wand,power_treads,bracer,,0
+535,6571204733,Bane,Ranged,boots,magic_wand,cloak,aether_lens,wind_lace,ward_sentry,1
+536,6571204733,Juggernaut,Melee,bfury,sange_and_yasha,magic_wand,phase_boots,,wind_lace,1
+537,6571204733,Mars,Melee,phase_boots,blink,magic_wand,blight_stone,wind_lace,black_king_bar,1
+538,6571204733,Visage,Ranged,vladmir,tranquil_boots,magic_wand,assault,ancient_janggo,branches,1
+539,6571204733,Doom,Melee,enchanted_mango,blink,magic_wand,tranquil_boots,ward_dispenser,ogre_axe,1
